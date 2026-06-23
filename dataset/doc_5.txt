@@ -1,0 +1,36 @@
+Query: US electric vehicle sector sentiment analysis
+Title: Electric Vehicles: Slow, then Fast
+Link: https://www.citigroup.com/global/insights/electric-vehicles-slow-then-fast
+Snippet: Apr 11, 2024 ... ... vehicles—seven nameplates account for around 70% of total sales. The authors characterize the U.S. EV market as having entered an “air ...
+
+Full Content:
+A recent report from Citi Research’s Itay Michaeli and team says EV volume growth might be sluggish for a while but is set to accelerate over the longer term. 
+A recent Citi Research report sees electric vehicles’ global volume growing modestly this year but after that, it’s pedal to the metal.
+The authors see current EV sentiment as too negative and offer analysis and survey insights that show why that sentiment could soon improve.
+The report forecasts global battery electric vehicle (BEV) volume will grow a modest 12% this year, with regional growth ranging from –1% in Europe to +6% in China and +26% in the U.S. Global penetration is seen rising to 13% this year from 12% in 2023.
+That forecast is more conservative than the latest one from Standard & Poor’s. But the authors expect growth to accelerate starting next year, with annual penetration gains returning to the 3- to 4-point range. Such a pace would lift global EV adoption to 33% by 2030, with the U.S. at 37%, Europe at 40% and China at 48%.
+ Citi BEV Forecast, by Region 
+  © 2024 Citigroup Inc. No redistribution without Citigroup’s written permission.
+Source: Citi Research
+For China, the authors remain constructive on BEV sales growth through 2030, but note that through 2026 demand growth will likely be stronger for plug-in hybrid electric vehicles (PHEVs).
+Europe’s BEV transition strikes the authors as a negative in absolute for all European OEMs, but they think more expensive branded BEVs will likely be less loss-making than cheaper branded BEVs.
+In the U.S., on the surface it looks like EV adoption continued to progress, with new sales penetration rising close to ~8%.
+But things look different if you take into account price cuts and Inflation Reduction Act (IRA) benefits needed to achieve that penetration.
+Price differentials failed to disrupt the still-strong market for vehicles using internal combustion engines (ICE) or to drive EV penetration meaningfully higher, a “rather disappointing outcome” that has raised questions about the industry’s ability to drive growth amid poor and declining EV profitability, increased pricing pressure and previously planned investments being pared back.
+The report says the softness is more as a function of current EV market dynamics. It stresses the importance of understanding that the U.S. EV market is uneven, with trends often reflecting specific circumstances around a handful of vehicles—seven nameplates account for around 70% of total sales.
+The authors characterize the U.S. EV market as having entered an “air pocket,” but acknowledge adoption challenges, which range from regional demand imbalances and narrowing the monthly payment gap with ICE vehicles to charging and infrastructure and a perceived political divide.
+Citi’s EV penetration matrix
+The report presents Citi’s recently developed EV penetration matrix. It works by analyzing new sales penetration across major segments at individual price bands—e.g., SUVs in the $40,000–$45,000 range—and measuring other important metrics through proprietary tracking methods.
+Applying the matrix to their 2024–25 EV sales forecasts, the authors forecast 1.47 million units of new EV sales, or 9.1% penetration in 2024. For 2025, the forecast is for 2.34 million units, or 13.8% penetration.
+2024 EV Segment Summary by Price Point 
+  
+© 2024 Citigroup Inc. No redistribution without Citigroup’s written permission.
+Source: Citi Research, AFDC
+ 2024 EV Sales Matrix Penetration 
+  
+© 2024 Citigroup Inc. No redistribution without Citigroup’s written permission.
+Source: Citi Research, AFDC
+Could PHEVs or extended-range EVs (EREVs) have a greater role to play? The report says possibly: PHEVs and EREVs can be viewed as an investment in future EV share, with automakers’ investments in these models facilitating consumer migration to EVs and ultimately greater long-term EV market share.
+The report points out that the EV slowdown means the catalysts for the next leg of EV growth are arguably up for grabs. For legacy automakers, the cost-benefit analysis leans heavily toward attempting to drive the next round of that growth; if automakers wait until it’s abundantly clear that EV demand is back, chances are they’ll be left chasing the market again.
+For more information on this subject, if you are a Velocity subscriber, please see Global Autos - State of the Global EV Market–Navigating a Slowing ‘24 EV Market (28 Mar 2024)
+Citi Global Insights (CGI) is Citi’s premier non-independent thought leadership curation. It is not investment research; however, it may contain thematic content previously expressed in an Independent Research report. For the full CGI disclosure, click here.

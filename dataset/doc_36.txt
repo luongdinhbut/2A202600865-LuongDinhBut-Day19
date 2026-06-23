@@ -1,0 +1,39 @@
+Query: Trends in the US electric vehicle market sentiment
+Title: U.S. electric vehicle sales soar into '24 - International Council on ...
+Link: https://theicct.org/us-ev-sales-soar-into-24-jan24/
+Snippet: Jan 26, 2024 ... Is demand for electric vehicles (EVs) slowing in the United States? The short answer is no. Light-duty EV sales data from the Alliance for ...
+
+Full Content:
+Blog										
+January 26, 2024 | 
+										By: Peter Slowik, Aaron Isenstadt 
+
+Is demand for electric vehicles (EVs) slowing in the United States? The short answer is no. Light-duty EV sales data from the Alliance for Automotive Innovation shows continued and significant growth in the United States from 2021 through the third quarter of 2023. Figure 1 illustrates the increase in quarterly sales (bars, left axis) and EV sales shares (red line, right axis). EV sales increased from about 125,000 in Q1 2021 to 185,000 in Q4 2021 and from about 300,000 in Q1 2023 to 375,000 in Q3 2023. The year 2023 also marked the first time annual U.S. EV sales surpassed 1 million, and this was achieved by Q3; sales through the first three quarters of 2023 were about 58% higher than the same period in 2022.
+Figure 1. U.S. light-duty electric vehicle sales and sales shares by quarter. Source: Alliance for Automotive Innovation, https://www.autosinnovate.org/EVDashboard.
+Since Q3 2021, EV sales have increased every quarter, and the share of total light-duty vehicle sales that EVs represent isn’t shrinking, either. The share of new sales that are plug-in electric increased from about 3% in Q1 2021 to about 7% in 2022 and then reached more than 10% in Q3 2023. For some rough context, data from the U.S. Environmental Protection Agency’s Automotive Trends Report shows that EV sales shares have grown at a faster rate than sales shares of conventional hybrids that don’t have a plug: It took about 25 years for hybrids to reach a 10% market share, compared to about 12 years for EVs.
+Additionally, state-level data shows that several states are far ahead of the national averages shown in Figure 1. California leads the country and EVs were nearly 27% of sales in the state through September 2023; this means that more than one in every four new light-duty vehicles sold were battery electric or plug-in hybrid electric. Another 12 states—Washington, Oregon, Colorado, Nevada, New Jersey, Massachusetts, Maryland, Hawaii, Connecticut, Virginia, Vermont, and Arizona—and the District of Columbia had EV sales shares between 10% and 20% through Q3 2023.
+We also looked at the U.S. EV sales data by automaker and Figure 2 shows this data, with the companies stacked in order from highest (bottom) to lowest sales for the first three quarters of 2023. Most of these automakers sold more EVs in Q2 or Q3 2023 than in any other quarter in the chart, and each company except Ford sold more EVs in the first three quarters of 2023 than they did in all of 2022. Furthermore, each company shown sold more EVs in Q3 2023 than they did in Q3 2022. For example, third-quarter sales from 2022 to 2023 increased by 40%–60% for BMW, Tesla, and Volkswagen, about 115%–125% for Toyota and Stellantis, and by about 150%–180% for Hyundai and all others combined.
+Figure 2. Quarterly U.S. light-duty electric vehicle sales by automaker. Source: Atlas EV hub, https://www.atlasevhub.com/materials/automakers-dashboard/.
+This data echoes that collected by other researchers and several automakers. Indeed, BNEF found no signs of a global EV slowdown and said that such reports have been “greatly exaggerated.” Hyundai and Kia reported strong U.S. EV demand. Volvo’s CEO said there’s no slowdown of EV orders and he expects EVs to keep driving sales. Moreover, although Ford and General Motors are scaling back near-term production because of slowing demand relative to previous forecasts, both companies still plan on selling more EVs than ever before and “remain committed to an electric future.”
+Beyond the strong sales, the latest consumer survey data by McKinsey and J.D. Power show that intent to purchase EVs is increasing, and a Consumer Reports survey found that 30% of licensed drivers would not even consider a gasoline vehicle for their next purchase or lease. The survey data also show that EV affordability and charging availability are key concerns. Fortunately, new tax credits from the Inflation Reduction Act of 2022 will provide up to $7,500 for new EVs plus several thousands of dollars for batteries. This combined with continued expected manufacturing cost reductions will help make more EV models cheaper than their gasoline counterparts, and there are dozens of new EV models across more vehicle classes and price points coming in 2024 and beyond. In terms of charging infrastructure, new public and private sector announcements sum up to more than $21 billion in investments and this is expected to increase the number of public chargers from about 160,000 in 2023 to nearly 1 million by 2030.
+There’s a lot at stake in the transition, as EVs can substantially help reduce climate pollution, support clean air and public health, and bring economic benefits, jobs, and industrial competitiveness. Most automakers typically aren’t quick to vocalize slowing demand for their products, so it’s worth remembering, also, that any talk of a lack of EV demand in the United States coincides with a push to weaken proposed new federal pollution standards. The true story from the data is strongly positive for EVs. There’s never been a better time for new standards to build on the sales momentum detailed above and give a strong signal to automakers, charging infrastructure providers, consumers, and other stakeholders to invest in EVs with confidence.
+
+Peter SlowikU.S. Passenger Vehicles Lead
+
+Aaron IsenstadtSenior Researcher
+This EV major market monitor is a biannual briefing that analyzes the electric vehicle (EV) market development and fleet carbon dioxide (CO2) emissions trends of manufacturers of light-duty vehicles (LDVs) in China, Europe, the United States, and India. This edition of the briefing covers the first half of 2023.
+Print
+To put the United States on track to reach 50% electric vehicle sales in 2030, cut the greenhouse gas target in half
+September 7, 2022
+Electric vehicles market monitor for light-duty vehicles: China, Europe, United States, and India, 2022
+June 14, 2023
+Assessment of light-duty electric vehicle costs and consumer benefits in the United States in the 2022–2035 time frame
+October 18, 2022
+Join our mailing list to keep up with ICCT’s latest research and analysis.
+
+Contact Us
+
+We use cookies to improve site functionality and make this website more useful to visitors. Find out more.
+This website uses cookies to enable some basic functionality and also to help us understand how visitors use the site, so that we can improve it.
+Essential cookies provide basic core functionality, such as saving user preferences. You can disable these cookies in your browser settings.
+We use Google Analytics to collect anonymous information about how visitors interact with this website and the information we provide here, so that we can improve both over the long run. For more on how we use this information please see our privacy policy.

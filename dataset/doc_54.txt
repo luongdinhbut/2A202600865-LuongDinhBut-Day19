@@ -1,0 +1,214 @@
+Query: Electric vehicle financial sentiment comparison between US and global market
+Title: When does reinventing the wheel make perfect sense? | EY - Global
+Link: https://www.ey.com/en_ee/insights/energy-resources/when-does-reinventing-the-wheel-make-perfect-sense
+Snippet: They restrict non-EV sales and oblige fleets to switch to alternative vehicle types over time. ... In the US, fleet represents a smaller part of the EV parc ...
+
+Full Content:
+Asking the better questions that unlock new answers to the working world's most complex issues.
+See more
+See more
+AI insights
+CEO agenda
+CFO agenda
+EY Center for Board Matters
+Podcasts
+Webcasts
+Case studies
+Operations leaders
+Technology leaders
+EY helps clients create long-term value for all stakeholders. Enabled by data and technology, our services and solutions provide trust through assurance and help clients transform, grow and operate.
+See more
+EY.ai - A unifying platform
+Strategy, transaction and transformation consulting
+Technology transformation
+Tax function operations
+Climate change and sustainability services
+EY Ecosystems
+EY Nexus: business transformation platform
+Discover how EY insights and services are helping to reframe the future of your industry.
+
+See more
+Workforce
+
+How can reimagined mobility help organizations see reward and not risk?
+
+
+15 Mar 2023Dr. Joost Smits 
+
+Private equity
+
+How the drivers of private equity value creation are changing
+
+
+08 May 2024Bridget Walsh 
+
+Strategy and Transactions
+
+How a frozen-foods powerhouse kept their cool on the way to being #1
+
+
+06 Feb 2022Morgan Malone 
+
+See all
+We bring together extraordinary people, like you, to build a better working world.
+See more
+Experienced professionals
+EY-Parthenon careers
+Student and entry level programs
+Talent community
+At EY, our purpose is building a better working world. The insights and services we provide help to create long-term value for clients, people and society, and to build trust in the capital markets.
+See more
+Press release
+
+Vellayan Subbiah from India named EY World Entrepreneur Of The Year™ 2024
+
+
+07 Jun 2024Eric J. Minuskin 
+
+Press release
+
+Extreme E and EY publish Season 3 report, recording 8.2% carbon footprint reduction as female-male performance gap continues to narrow
+
+
+09 Apr 2024Michael Curtis 
+
+Press release
+
+EY announces acceleration of client AI Business Model adoption with NVIDIA AI
+
+
+20 Mar 2024Barbara Dimajo 
+
+
+
+          No results have been found
+        
+Topics
+General
+People
+Recent Searches
+
+        Trending
+      
+Rethink customer experience as human experience
+Technology will transform customer experience. Competitive differentiation will come from connecting to what is essentially human. Learn more.
+Is your organization upholding its integrity standards?
+
+Standards of integrity in emerging markets are improving, but the appetite and opportunity for wrongdoing continues. Learn more.
+How bolder CEOs take charge to shape their future with confidence
+
+EY CEO confidence index assesses CEO sentiment across sector growth, price and inflation, business growth, talent, and investment and technology. Read more
+Select your location
+
+close
+
+
+
+        Authors
+      
+
+            EY Global Energy & Resources Industry Market Leader; Global Power & Utilities Sector Leader
+          
+
+            EY Global Advanced Manufacturing & Mobility Leader
+          
+
+            EY Global Digital & Innovation Lead for Energy 
+          
+
+            EY Americas eMobility Energy Leader
+          
+
+            EY Global Power & Utilities Lead Analyst 
+          
+In brief
+We are at the threshold of an evolution in road transport that will benefit the environment, business, finance and the way we live our lives, for a long time to come. Right now, road transport accounts for almost one-quarter of Europe’s total greenhouse gas (GHG) emissions. It is the main cause of pollution in cities and accounts for more than 400,000 premature deaths in Europe every year.
+The European Commission hopes to redress some of the damage by putting at least 30 million zero-emission vehicles on Europe’s roads by 2030, along with three million charge points. It aims for 100 climate-neutral European cities and large-scale deployment of automated mobility. If it manages to drive down emissions from transport by 90% by 2050, it will be well on its way to carbon neutrality.
+It is a similar story in the US, where road transport makes up 23% of total GHG emissions. Though the US is further behind in the electrification of transport, the new Biden Administration is showing its intent by announcing plans for a 50%–52% reduction in GHG emissions by 2030 against 2005 levels.
+From the policymakers right down to the individuals who choose electric vehicles (EVs) over internal combustion engine (ICE) vehicles, there is enthusiasm for, and commitment to, the difference that electrification will make. While climate responsibilities rank highly, the economic drivers of switching from fossil fuels to electric have to be figured out in order to balance the books and deliver value from transition. And for that, the world has to tackle the hurdles, put in place enablers and make the switch to electric mobility as seamless as possible.
+
+          Chapter 1
+        
+Surge of support takes EVs beyond the point of no return.
+Through 2020 and into 2021, we had a glimpse of what a clean transport future might look like. Fewer polluting vehicles on the roads, cleaner air and a healthier natural environment came courtesy of the national lockdowns that accompanied the COVID-19 pandemic. In some cities, nitrogen oxide levels from traffic fell by as much as 70%. The US reported a 10% year-on-year decline in emissions in 2020.
+In Europe, as consumers were being won over to the concept of cleaner transport, new carbon dioxide (CO2) emission standards for automakers came into effect. They were accompanied by COVID-19 economic recovery packages focused on carbon-neutral and renewable energy solutions. Together, they gave EVs and the emerging eMobility ecosystem that goes with the transition to electric, a very decisive push.
+In fact, in the first nine months of 2020, European EV sales outstripped those in China for the first time in at least five years. In the UK, in September 2020, EV sales eclipsed diesel sales for the first time, though only just. And, in 2020, a landmark 1.4 million vehicle sales (pdf) in Europe were either pure electric or hybrid models – accounting for 1 in every 10 passenger cars sold.
+Admittedly, Europe is starting from a low base. Of the 308 million motor vehicles on the road today, just 3 million – including cars, buses and trucks – are electric (pdf). But, by 2030, according to EY analysis, the estimated number of EVs in Europe will top 40 million. The US, meanwhile, is building on the early European experiences in eMobility to shape its own transition. US EV sales grew just 3.7% in 2020 to 328,000 units (pdf), while the EV market share grew from 1.9% in 2019 to 2.3%. However, boosted by the Biden Administration’s announcement to electrify the entire federal fleet, there could be as many as 73 million EVs on US roads by 2035 (pdf). 
+The potential, therefore, is huge. EY analysts predict that the market for eMobility, which includes revenues from the burgeoning ancillary market in batteries, vehicles, charging infrastructure, etc., will be worth US$210b in Europe and US$72b in the US by 2030. In addition, the US can expect an estimated US$113b in environmental impact savings, and avoidance of US$72b in health-related costs, by 2050. Furthermore, between 2015 and 2040, around 1.4 million new jobs will be created in the US as a result of the transition.
+
+          Chapter 2
+        
+Can we go fast enough to stave off the irreversible effects of pollution from transport?
+How soon we decarbonize will determine climate, health and environmental outcomes for decades to come. But are we going fast enough?
+Europe is moving but needs to speed up. Figure 1 illustrates projected transport emissions for the 27 EU member states, plus the UK, to 2030. An 18% reduction, shown by the yellow line, is needed to bring emissions down to 1990 levels (equivalent to a 2% year-on-year reduction). This compares with the 4% year-on-year reduction (dashed line) expected by meeting the current post-2020 CO2 emission standards. However, a 64% reduction, or 10% year-on-year saving, shown by the black line, is actually needed to achieve Europe’s targeted 55% reduction, compared with 1990 levels.
+Assuming that the US achieves its 50%–52% GHG emission reduction target in the transportation sector too, we estimate that a 5% year-on-year cut in US emissions from 2018 levels is needed by 2030, as illustrated in figure 2¹.
+The US sold around 328,000 EVs in 2020, equivalent to 2.3% of its total vehicle sales, while European sales, at around 1.4 million EVs, represent 10.5%.
+Paving the way in Europe are new CO2 emission standards. They are, according to many observers, the single biggest accelerant of the eMobility transition. These standards have forced automakers down a decarbonized pathway and will be the fundamental drivers of change.
+Taking 2021 as a baseline, cars and commercial light-duty vehicles (LDVs) must emit 15% less CO2 from 2025. From 2030, cars must emit 37.5% less CO2, and LDVs 31% less. For every gram that each vehicle exceeds the emissions targets, a €95 (US$115) fine applies. However, there are still concerns that these measures might not be stringent enough to get 30 million zero-emission vehicles on Europe’s roads by 2030, so the European Commission will review the CO2 standards (pdf) for cars and LDVs by June 2021, and heavy-duty vehicles the year after.
+The regulations are also designed to accelerate European EV sales. They stipulate that new EV car and LDV sales must make up 10% of automakers’ total sales in 2021, rising to 15% in 2025. From 2030, it becomes 35% for cars and 30% for LDVs. The reward is the relaxation of the emissions cap, but there is no penalty, erroneously we think, for noncompliance.
+For automakers in Europe, the regulations mean a complete overhaul of powertrains, massive investment in research and development, and disruption to long-standing supply chains in order to deliver cleaner vehicles with lower lifetime emissions. As a result, they will bring more than 200 new electric and plug-in hybrid models to market this year, giving private and fleet customers greater choice and accelerating, in turn, the pace of electrification.
+The US is making significant strides too. EY analysis finds that automakers plan to bring more than 171 new EV models, including light vehicles registered for personal use, to market by 2025. This is part of Biden’s US$2t infrastructure plan. US$174b will boost the markets for EVs and include tax credits and incentives, the rollout of charging infrastructure (500,000 units by 2030) and support for automakers to build home-grown EVs and batteries.
+The US is, of course, looking at the strategies employed by its European counterparts as a means to accelerate its own EV adoption. It could, for instance, define a “North Star” objective to inspire manufacturers, businesses and consumers to embrace electric, along with a target date for achieving carbon neutrality. Similarly, emission standards, and penalties for automakers that do not comply, may have a place, along with stimulus packages, modeled on the European Green Deal strategy, to advance cheaper, cleaner and healthier forms of private and public transport.
+Already, national initiatives across Europe are securing EV success, while inroads are being made by various US stakeholders pushing for electrification too. Lessons are transferrable across geographies.
+We are seeing many governments, the UK included, planning to banish the sale of new diesel and petrol ICE vehicles by 2030. Norway, one of the most progressive economies for EVs, is aiming for a 2025 target date. Meanwhile, several US states have announced a ban on ICE vehicles – Washington from 2027, California and Massachusetts by 2035, New Jersey by 2040, and Colorado by 2050. The District of Columbia is banning private and government ICE fleets by 2040. And 11 US states have committed to deploy 3.3 million zero-emission vehicles by 2025.
+France, which aims for a five-fold increase in EV sales by 2022 compared with 2017, operates an effective bonus-malus scheme, which may resonate internationally. The “bonus” is an environmental reward of up to €6,000 (US$7,000) for vehicles costing less than €45,000 (US$55,000) that emit less than 20 grams of CO2 per kilometer. The “malus” is a tax of up to €20,000 (US$24,000) on the biggest polluting vehicles at the point of registration, which funds the bonus pay-outs.
+Almost 300 low-emission zones within European towns and cities now ban polluting vehicles. Aside from accelerating EV uptake among zone residents, logistics and last-mile delivery businesses could be forced to either switch to EVs or pay a penalty to reach their urban customers. There are, therefore, environmental, social and commercial consequences of the electrification of transport.
+As well as taking cues from Europe on ways in which to accelerate EV rollout, the US will pay heed, undoubtedly, to vulnerabilities too. Among them is the risk of polarization across federal lines. Despite inducements to electrify, EV take-up is disjointed across Europe. Economies that offer the best incentives and have the wealthiest populations account for the biggest take-up of EVs. But poorer nations are being squeezed out, with contingent implications for air quality and health.
+The split is evident. Slightly more than 75% of all EV charging stations (pdf) are located in Germany, France, the Netherlands and the UK, and more than three-quarters of all EVs are sold (pdf) in those same countries, plus Norway. In the US, 38% of all EV sales in 2020 were in California. Work needs to be done globally to harmonize EV adoption and reverse polarization in poorer economies.
+Most EV drivers will charge at home or at the workplace. In Europe, that will be in the region of 80% (pdf). But they need confidence in their ability to travel further afield. And for that, they need a robust and reliable charging infrastructure.
+The European Commission is calling for three million public charge points by 2030, a 13-fold increase within the next 10 years. That demands investment of around €20b (US$24b), based on an assumed uptake of between 33 million and 44 million EVs on Europe’s roads. An additional €25b (US$30b) is also needed to reinforce power distribution grids so that they can support charging infrastructure rollout, according to industry body Eurelectric. The US aims for 500,000 charging stations across its vast terrains by 2030, roughly a five-fold increase in the nation’s EV infrastructure. This target would be sufficient to cover only 57% of US charging requirements, yet it could spark the sale of 25 million electric cars and trucks.
+Standing in the way of rollout is the perception that charging infrastructure is a high-risk and low-return investment. The business case, built around revenue enhancement and cost reduction, needs to improve if it is to attract mainstream investors to meet infrastructure deployment targets.
+State aid funding is available in Europe. And, interestingly, the European Commission is waiving its position on technology neutrality where the benefits of charging infrastructure initiatives are proven to exceed potential distortion of competition. For instance, Romania won approval from European competition regulators in early 2020 for a €53m (US$64m) public support scheme for charging stations.
+Also needed are new and innovative ways to raise private capital for infrastructure investment. The profit margins are often deemed too small, while the lack of unified charging standards adds uncertainty.
+Certainly, common protocols for communications between the EV, the charger and the central management system are a top priority. And not just from an investment perspective. The current lack of interoperability means that the experience at the charging station is far removed from the ease of filling up at a petrol or diesel pump. And that puts off drivers.
+Acceleration in eMobility, and demand for slow- and fast-charging capabilities, will bring about greater cohesion between the power and transport sectors. Together, they will accommodate a surge in drivers charging their EVs at the end of the working day, without destabilizing the grid.
+Distribution utilities will work alongside charge point operators to:
+Distribution utilities will provide guidance on charging infrastructure allocation at both existing and new-build developments to avoid costly retro-fitting and other capacity-related issues. And they will consider possibilities for future vehicle-to-grid (V2G) energy exchange to leverage flexibility and keep power flows in balance.
+Once there are enough EVs on the roads, they will become part of a virtuous energy circle. Smart charging will shift power demand to times of the day when renewable supply is high and power prices low. V2G goes further. It pushes charged power back to the grid to balance variations in energy production and consumption. Essentially, it turns the EV into an independent renewable energy management system on wheels.
+Recognizing that the charging conundrum is too big for single players to handle, companies on both sides of the Atlantic are pooling resources and ideas to deliver wide-scale charging solutions.
+In the US, the West Coast Clean Transit Corridor initiative (pdf) brings together nine utilities to assess the possibility of installing electric charging facilities for freight and delivery trucks at 50-mile intervals. Now, the first Electric Island charging site, which is a partnership between Portland General Electric and Daimler Trucks North America, is up and running in Oregon.
+
+The Electric Highway Coalition, meanwhile, will see eight utilities link up a network of DC fast chargers to serve the major highways from the Atlantic Coast, through the Midwest and South and into the Gulf and Central Plains regions. Similarly, the Midwestern coalition involves 10 utilities in a project to build an EV charging station network, covering 1,200 miles from Detroit to Colorado, by the end of 2022.
+
+The power of cumulative innovation is further evidenced in Germany. The eCharge project, which will allow electric cars to charge as they drive, involves partners from multiple industries. It is led by Volkswagen, backed by Israeli wireless road charging company Electreon, transport infrastructure company Eurovia, and subsidiaries of the global VINCI construction group. The aim is to extend the range of EVs with an economical and functional solution for wireless road charging.
+
+
+          Chapter 3
+        
+Fleet is the low-hanging fruit able to deliver the biggest and fastest environmental rewards.
+Fleet will make the biggest and fastest contribution to the decarbonization of road transport. The fleet sector in Europe, though relatively small at 63 million vehicles (20% of Europe’s total vehicle parc), is disproportionately damaging to the environment (pdf). It accounts for more than 40% of total kilometers traveled and for half of total emissions from road transport.2 It makes, therefore, the biggest and most impactful electrification test case.
+European CO2 emission standards are accelerating fleet conversion. They restrict non-EV sales and oblige fleets to switch to alternative vehicle types over time. That, coupled with low-emission zones, makes EVs the only viable option for some European businesses. In fact, EY analysts calculate that the number of fleet vehicles in Europe – both EVs and ICE – will grow by around 15% by 2030, to 73 million vehicles. And a 24-fold increase in total electrified fleet will bring actual numbers to 10.5 million by 2030, up from 420,000 fleet EVs today.
+In the US, fleet represents a smaller part of the EV parc compared with Europe and, as a result, the environmental case for electrification might seem less compelling, but the lower total cost of ownership (TCO) of electric fleets is a big motivator. TCO takes into account capital costs, depreciation, fuel and electricity costs, and maintenance, and the TCO of EVs is fast reaching par with ICE vehicles. Incentives and grants bridge the upfront cost gap, while reduced servicing and maintenance, as well as significant fuel savings, make the economic case for fleet electrification. Over time, EVs will secure an economic advantage as illustrated in figure 3.
+On both sides of the Atlantic, fleet owners can leverage their bulk-buying capabilities with automakers to secure good deals on EV purchases and, given their typically high mileages, also secure operational cost savings on fuel.
+Other deciding factors for the electrification of fleet first, irrespective of geography, are the regular routes and fairly consistent daily mileages that vehicles clock up. Fixed destinations and stopovers charging much easier for fleet vehicles.
+In both Europe and the US, EY believes that company cars, last-mile delivery vehicles, pool cars and work-related light commercial vehicles will electrify fastest. Within the same time frame, around 2% of heavy goods vehicles, including refuse-collection trucks, will go electric in Europe3.
+In time, the lessons learned from electrifying fleet first will cascade across the transport sector. Meanwhile, turnover in company cars, which are a major component of the fleet sector, will see a second-hand market develop, extending EV ownership to a new audience.
+
+
+          Chapter 4
+        
+Electrification of transport opens up a new landscape of commercial opportunity.
+As with other sectors in transition, a supporting ecosystem has begun to develop. It includes innovative customer solutions and value-added propositions to propel eMobility into mainstream adoption.
+In 2021, an EY report, Accelerating fleet electrification in Europe (pdf), produced in collaboration with energy industry body Eurelectric, reveals businesses both within and at the fringes of Europe’s energy and transport sectors are finding commercial opportunity in electrification. Among them:
+No company can single-handedly provide every service that is needed to facilitate the transition to electric mobility. Energy providers are forming partnerships with charge point operators and leasing companies. Automakers are teaming up with utilities and setting up their own captive leasing businesses. And combinations of new and established players are looking to the future and working collaboratively to earn customers’ trust and enhance their overall experience of eMobility.
+As a consequence, an eMobility ecosystem is emerging, with the fleet customer at the center.
+Industry players that move the fastest will reap the biggest commercial rewards from increased sales, growth in market share and enhanced customer satisfaction.
+
+For now, the electrification journey has led us to a tipping point that is redefining the future direction of transport. 
+Looking ahead, the transition will not only deliver environmental, societal and health benefits from reduced emissions and improved air quality, but realize significant commercial value too. Only those that move fastest and take a customer experience-driven, future-back approach to tailoring their EV services will reap the biggest commercial rewards.
+The upheaval that comes with reinventing the wheel and moving the world to a completely new transport state will be surely worth it.
+There is massive momentum, at a country, city, business and individual level, behind the electrification of transport. Environmental benefits are, of course, the biggest prize. But there are also significant commercial rewards for the first and fastest movers in the ecosystem that underpins eMobility.
+About this article
+
+              Authors
+            
+
+      How EY can help
+    
+
+
+                EY UtilityWave
+              
+
+Discover how EY's NextWave platform can help transform how your company manages, integrates & leverages data from IoT devices to improve performance.
+EY refers to the global organization, and may refer to one or more, of the member firms of Ernst & Young Global Limited, each of which is a separate legal entity. Ernst & Young Global Limited, a UK company limited by guarantee, does not provide services to clients.

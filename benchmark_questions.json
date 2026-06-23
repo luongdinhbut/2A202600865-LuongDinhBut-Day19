@@ -1,0 +1,82 @@
+[
+  {
+    "id": "q01",
+    "question": "Những yếu tố nào liên quan đến việc tăng trưởng doanh số xe điện tại Mỹ chậm lại trong Q1 2024?"
+  },
+  {
+    "id": "q02",
+    "question": "Tesla đã ảnh hưởng như thế nào đến bức tranh thị trường xe điện Mỹ trong Q1 2024?"
+  },
+  {
+    "id": "q03",
+    "question": "Các chính sách ZEV, ưu đãi người tiêu dùng và hạ tầng sạc có liên hệ gì với mức độ phổ cập xe điện tại các thành phố Mỹ?"
+  },
+  {
+    "id": "q04",
+    "question": "Người tiêu dùng lo ngại những gì về sạc công cộng, dung lượng pin và tầm hoạt động của xe điện?"
+  },
+  {
+    "id": "q05",
+    "question": "McKinsey dự báo Mỹ cần bao nhiêu cổng sạc vào năm 2025 và 2030, và vì sao điều đó quan trọng?"
+  },
+  {
+    "id": "q06",
+    "question": "Những hãng xe nào được nhắc tới là có tăng trưởng doanh số EV hơn 50% so với cùng kỳ trong Q1 2024?"
+  },
+  {
+    "id": "q07",
+    "question": "Giá bán thấp hơn, ưu đãi và leasing đã tác động ra sao đến thị trường EV tại Mỹ?"
+  },
+  {
+    "id": "q08",
+    "question": "Sự khác nhau giữa sạc tại nhà, sạc công cộng và sạc tại nơi làm việc được mô tả như thế nào?"
+  },
+  {
+    "id": "q09",
+    "question": "BloombergNEF mô tả xu hướng thị trường xe điện toàn cầu năm 2024 như thế nào?"
+  },
+  {
+    "id": "q10",
+    "question": "Vai trò của Trung Quốc trong thị trường EV và chuỗi cung ứng pin được nêu ra như thế nào?"
+  },
+  {
+    "id": "q11",
+    "question": "EV đang ảnh hưởng như thế nào đến nhu cầu dầu và phát thải giao thông đường bộ theo các báo cáo trong corpus?"
+  },
+  {
+    "id": "q12",
+    "question": "Những rào cản nào có thể khiến người mua trì hoãn chuyển từ xe động cơ đốt trong sang EV?"
+  },
+  {
+    "id": "q13",
+    "question": "Các yếu tố nào làm cho thị trường EV vẫn có triển vọng tăng trưởng dù tốc độ tăng trưởng ngắn hạn chậm lại?"
+  },
+  {
+    "id": "q14",
+    "question": "Hạ tầng sạc nhanh và kỳ vọng thời gian sạc của người dùng có quan hệ gì với adoption EV?"
+  },
+  {
+    "id": "q15",
+    "question": "Các nguồn trong corpus nói gì về vai trò của xe điện thương mại, xe buýt, xe hai bánh hoặc ba bánh?"
+  },
+  {
+    "id": "q16",
+    "question": "Những con số benchmark quan trọng nhất về thị phần, doanh số, hạ tầng sạc hoặc pin trong corpus là gì?"
+  },
+  {
+    "id": "q17",
+    "question": "So sánh các tín hiệu tích cực và tiêu cực về sentiment của ngành EV tại Mỹ."
+  },
+  {
+    "id": "q18",
+    "question": "Các công ty, tổ chức nghiên cứu hoặc nguồn dữ liệu nào xuất hiện nhiều trong corpus và chúng liên hệ với nhận định nào?"
+  },
+  {
+    "id": "q19",
+    "question": "GraphRAG có thể trả lời tốt hơn Flat RAG ở câu hỏi multi-hop nào trong bộ corpus này, và vì sao?"
+  },
+  {
+    "id": "q20",
+    "question": "Tóm tắt bức tranh tổng thể của sector xe điện Mỹ dựa trên các quan hệ giữa doanh số, giá, ưu đãi, hạ tầng và hành vi người tiêu dùng."
+  }
+]

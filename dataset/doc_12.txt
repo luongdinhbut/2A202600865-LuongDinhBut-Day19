@@ -1,0 +1,1303 @@
+Query: Financial performance of US electric vehicle companies
+Title: Polestar releases third quarter 2023 financial results | Polestar
+Link: https://investors.polestar.com/news-releases/news-release-details/polestar-releases-third-quarter-2023-financial-results
+Snippet: Nov 8, 2023 ... Polestar Automotive Holding UK PLC (“Polestar” or the “Company,” Nasdaq: PSNY), the Swedish electric performance car brand, reports its ...
+
+Full Content:
+GOTHENBURG, SWEDEN – 8 November 2023. Polestar Automotive Holding UK PLC (“Polestar” or the “Company,” Nasdaq: PSNY), the Swedish electric performance car brand, reports its preliminary unaudited financial and operational results for the three and nine months ended September 30, 2023.
+Key financial highlights1 
+The below table summarizes key unaudited financial results for the nine-months ended September 30, 2023:
+(in millions of U.S. dollars)
+ 
+For the nine months
+			ended September 30,
+ 
+% Change
+ 
+2023
+ 
+2022
+ 
+%
+Revenue
+1,844.4
+1,476.7
+25
+Cost of sales
+(1,823.2)
+(1,419.3)
+28
+Gross profit
+21.2
+57.5
+(63)
+Gross margin (%)
+1.1
+3.9
+n/m
+Selling, general and administrative expense
+(684.9)
+(625.4)
+10
+Research and development expense
+(136.2)
+(123.4)
+10
+Other operating income (expense), net
+64.9
+(18.0)
+(461)
+Listing expense(1)
+—
+(372.3)
+n/m
+Operating loss
+(735.0)
+(1,081.6)
+(32)
+Adjusted operating loss(2)
+(735.0)
+(709.3)
+4
+(1)
+The listing expense represents a non-recurring, non-cash, share-based listing charge, incurred in connection with the business combination with Gores Guggenheim, Inc (GGI). on June 23, 2022
+(2)
+Non-GAAP measure. See Appendix B for details and a reconciliation of adjusted metrics to the nearest GAAP measure.
+The below table summarizes key unaudited financial results for the quarter ended September 30, 2023:
+(in millions of U.S. dollars)
+ 
+For the three months
+			ended September 30,
+ 
+% Change
+ 
+2023
+ 
+2022
+ 
+%
+Revenue
+613.2
+435.4
+41
+Cost of sales
+(609.6)
+(431.4)
+41
+Gross profit
+3.6
+4.1
+(11)
+Gross margin (%)
+0.6
+0.9
+n/m
+Selling, general and administrative expense
+(236.2)
+(178.6)
+32
+Research and development expense
+(54.9)
+(24.6)
+123
+Other operating income (expense), net
+26.3
+2.8
+846
+Listing expense
+—
+—
+n/m
+Operating loss
+(261.2)
+(196.4)
+33
+Adjusted operating loss
+(261.2)
+(196.4)
+33
+Variances for 3 months ended September 30, 2023 and 2022 largely followed the trends outlined for 9 months ended September 30, 2023 and 2022, with the following notable exception:
+Cash flow highlights 
+The below table summarizes preliminary unaudited cash flow for the nine months ended September 30, 2023 and 2022:
+(in millions of U.S. dollars)
+ 
+For the nine months
+			ended September 30,
+ 
+2023
+Beginning cash
+973.9
+Operating
+(1,334.8)
+Investing
+(189.4)
+Financing
+1,545.3
+Foreign exchange effect on cash and cash equivalents
+(43.9)
+Ending cash
+951.1
+Preliminary key operational highlights 
+The below table summarizes key preliminary operational results as of and for the nine months ended September 30, 2023:
+ 
+For the nine months
+			ended September 30,
+% Change
+ 
+2023
+2022
+ 
+Global volumes1
+41,817
+30,424
+37
+– including external vehicles with repurchase obligations
+1,955
+799
+ 
+– including internal vehicles
+1,445
+1,421
+ 
+ 
+ 
+ 
+ 
+ 
+For the nine months
+			ended September 30,
+Change
+Markets2
+27
+27
+—
+Locations3
+157
+128
++29
+Service points4
+1,135
+1,033
++102
+(1)
+Represents the sum of total volume of vehicles delivered for (a) external sales of new vehicles without repurchase obligations, (b) external sales of vehicles with repurchase obligations, and (c) internal use vehicles for demonstration and commercial purposes or to be used by Polestar employees (vehicles are owned by Polestar and included in inventory). A vehicle is deemed delivered and included in the volume figure for each category once invoiced and registered to the external or internal counterparty, irrespective of revenue recognition. Revenue is recognized in scenarios (a) and (b) in accordance with IFRS 15, Revenue from Contracts with Customers, and IFRS 16, Leases, respectively. Revenue is not recognized in scenario (c).
+(2)
+Represents the markets in which Polestar operates.
+(3)
+Represents Polestar Spaces, Polestar Destinations, and Polestar Test Drive Centres.
+(4)
+Represents Volvo Cars service centres to provide access to customer service points worldwide in support of Polestar’s international expansion.
+2023 Outlook 
+We now expect to deliver approximately 60,000 vehicles for this year and a gross margin of approximately 2% for the full year.
+Upcoming reporting and other events 
+Polestar management will hold a live audio webcast today, 8 November 2023 at 14:00 PT (17:00 ET or 23:00 CET). The live audio webcast will be available at https://investors.polestar.com/events/event-details/q323-results-webcast.
+Following the completion of the call, a replay will be available at https://investors.polestar.com/.
+Polestar expects to post its unaudited financial and operational results and MD&A for the third quarter of 2023 on or before November 17, 2023.
+Statement Regarding Preliminary Unaudited Financial and Operational Results 
+The unaudited financial and operational information published herein is preliminary and subject to potential adjustments. Potential adjustments to operational and consolidated financial information may be identified from further work performed during Polestar’s quarter-end review. This could result in differences from the unaudited operational and financial information published herein. For the avoidance of doubt, the preliminary unaudited operational and financial information published herein should not be considered a substitute for the further financial information to be filed with the SEC for the quarter ended September 30, 2023 expected in mid-November.
+About Polestar 
+Polestar (Nasdaq: PSNY) is the Swedish electric performance car brand determined to improve society by using design and technology to accelerate the shift to sustainable mobility. Headquartered in Gothenburg, Sweden, its cars are available online in 27 markets globally across North America, Europe and Asia Pacific.
+Polestar plans to have a line-up of five performance EVs by 2026. Polestar 2, the electric performance fastback, launched in 2019. Polestar 3, the SUV for the electric age, launched in late 2022. Polestar 4, the SUV coupé transformed, is launching in phases through 2023 and into 2024. Polestar 5, an electric four-door GT and Polestar 6, an electric roadster, are coming soon.
+The Polestar 0 project supports the company’s ambitious goal of creating a truly climate-neutral production car by 2030. The research initiative also aims to create a sense of urgency to act on the climate crisis, by challenging employees, suppliers and the wider automotive industry, to drive towards zero.
+Forward-Looking Statements 
+Certain statements in this press release (“Press Release”) may be considered “forward-looking statements” as defined in the Private Securities Litigation Reform Act of 1995. Forward-looking statements generally relate to future events or the future financial or operating performance of Polestar including the number of vehicle deliveries and gross margin. For example, projections of revenue, volumes, margins, cash flow break-even and other financial or operating metrics and statements regarding expectations of future needs for funding and plans related thereto are forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as “may”, “should”, “expect”, “intend”, “will”, “estimate”, “anticipate”, “believe”, “predict”, “potential”, “forecast”, “plan”, “seek”, “future”, “propose” or “continue”, or the negatives of these terms or variations of them or similar terminology. Such forward-looking statements are subject to risks, uncertainties, and other factors which could cause actual results to differ materially from those expressed or implied by such forward looking statements.
+These forward-looking statements are based upon estimates and assumptions that, while considered reasonable by Polestar and its management, as the case may be, are inherently uncertain. Factors that may cause actual results to differ materially from current expectations include, but are not limited to: (1) Polestar’s ability to maintain agreements or partnerships with its strategic partners, such as Volvo Cars, Geely or Xingji Meizu Group, and to develop new agreements or partnerships; (2) Polestar’s ability to maintain relationships with its existing suppliers, source new suppliers for its critical components and enter into longer term supply contracts and complete building out its supply chain, while effectively managing the risks due to such relationships; (3) Polestar’s reliance on its partnerships with vehicle charging networks to provide charging solutions for its vehicles and its reliance on strategic partners for servicing its vehicles and their integrated software; (4) Polestar’s reliance on its partners, some of which may have limited experience with electric vehicles, to manufacture vehicles at a high volume or develop devices, products, apps or operating systems for Polestar, and to allocate sufficient production capacity or resources to Polestar in order for Polestar to be able to increase its vehicle production capacities and product offerings; (5) the ability of Polestar to grow and manage growth profitably including expectations of growth and financial performance by generating expected revenues at expected selling prices, maintain relationships with customers and retain its management and key employees; (6) Polestar’s estimates of expenses, profitability, gross margin, cash flow, and cash reserves; (7) increases in costs, disruption of supply or shortage of materials, in particular for lithium-ion cells or semiconductors; (8) the possibility that Polestar may be adversely affected by other economic, business, and/or competitive factors; (9) the effects of competition and the high barriers to entry in the automotive industry, and the pace and depth of electric vehicle adoption generally on Polestar’s future business; (10) changes in regulatory requirements, governmental incentives and fuel and energy prices; (11) the outcome of any legal proceedings that may be instituted against Polestar or others, adverse results from litigation, governmental investigations or audits, or tax-related proceedings or audits; (12) the ability to meet stock exchange listing standards; (13) changes in applicable laws or regulations or governmental incentive programs; (14) Polestar’s ability to establish its brand and capture additional market share, (15) the risks associated with negative press or reputational harm, including from lithium-ion battery cells catching fire or venting smoke; (65) delays in the design, development, manufacture, launch and financing of Polestar’s vehicles and other product offerings, and Polestar’s reliance on a limited number of vehicle models to generate revenues; (16) Polestar’s ability to continuously and rapidly innovate, develop and market new products; (17) risks related to future market adoption of Polestar’s offerings; (18) risks related to Polestar’s distribution model; (19) the impact of the global COVID-19 pandemic, inflation, interest rate changes, the ongoing conflict between Ukraine and Russia and in Israel and the Gaza Strip, supply chain disruptions, fuel and energy prices and logistical constraints on Polestar, Polestar’s projected results of operations, financial performance or other financial and operational metrics, or on any of the foregoing risks; (20) Polestar’s ability to forecast demand for its vehicles; (21) Polestar’s ability to raise additional funding; (22) Polestar’s ability to successfully execute cost-cutting activities and strategic efficiency initiatives; (and (23) other risks and uncertainties set forth in the sections entitled “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements” in Polestar’s Form 20-F, and other documents filed, or to be filed, with the SEC by Polestar. There may be additional risks that Polestar presently does not know or that Polestar currently believes are immaterial that could also cause actual results to differ from those contained in the forward-looking statements.
+Nothing in this Press Release should be regarded as a representation by any person that the forward-looking statements set forth herein will be achieved or that any of the contemplated results of such forward-looking statements will be achieved. You should not place undue reliance on forward-looking statements, which speak only as of the date they are made. Polestar assumes no obligation to update these forward-looking statements, even if new information becomes available in the future, except as may be required by law.
+Appendix A
+Polestar Automotive Holding UK PLC
+Preliminary Unaudited Consolidated Statement of Income (Loss)
+(in thousands of U.S. dollars unless otherwise stated)
+ 
+For the three months
+			ended September 30,
+ 
+For the nine months
+			ended September 30,
+ 
+2023
+ 
+2022
+ 
+2023
+ 
+2022
+Revenue
+613,182
+ 
+435,449
+ 
+1,844,447
+ 
+1,476,746
+ 
+Cost of sales
+(609,581
+)
+(431,390
+)
+(1,823,234
+)
+(1,419,271
+)
+Gross profit
+3,601
+ 
+4,059
+ 
+21,213
+ 
+57,475
+ 
+Selling, general and administrative expense
+(236,246
+)
+(178,643
+)
+(684,877
+)
+(625,424
+)
+Research and development expense
+(54,865
+)
+(24,598
+)
+(136,176
+)
+(123,353
+)
+Other operating income (expense), net
+26,305
+ 
+2,781
+ 
+64,886
+ 
+(17,961
+)
+Listing expense
+—
+ 
+—
+ 
+—
+ 
+(372,318
+)
+Operating loss
+(261,205
+)
+(196,401
+)
+(734,954
+)
+(1,081,581
+)
+Finance income
+8,997
+ 
+711
+ 
+21,487
+ 
+1,485
+ 
+Finance expense
+(63,389
+)
+(60,539
+)
+(153,904
+)
+(111,966
+)
+Fair value change - Earn-out rights
+155,557
+ 
+546,961
+ 
+388,552
+ 
+965,668
+ 
+Fair value change - Class C Shares
+7,250
+ 
+14,059
+ 
+18,000
+ 
+35,590
+ 
+Income (loss) before income taxes
+(152,790
+)
+304,791
+ 
+(460,819
+)
+(190,804
+)
+Income tax expense
+(2,579
+)
+(5,404
+)
+(7,581
+)
+(12,543
+)
+Net income (loss)
+(155,369
+)
+299,387
+ 
+(468,400
+)
+(203,347
+)
+Polestar Automotive Holding UK PLC
+Preliminary Unaudited Consolidated Statement of Financial Position
+(in thousands of U.S. dollars unless otherwise stated)
+ 
+ 
+September 30, 2023
+December 31, 2022
+Assets
+ 
+ 
+ 
+Non-current assets
+ 
+ 
+ 
+Intangible assets and goodwill
+ 
+1,529,706
+ 
+1,396,477
+ 
+Property, plant, and equipment
+ 
+259,656
+ 
+258,048
+ 
+Vehicles under operating leases
+ 
+93,945
+ 
+92,198
+ 
+Other non-current assets
+ 
+4,008
+ 
+5,306
+ 
+Deferred tax asset
+ 
+17,628
+ 
+7,755
+ 
+Other investments
+ 
+2,225
+ 
+2,333
+ 
+Total non-current assets
+ 
+1,907,168
+ 
+1,762,117
+ 
+Current assets
+ 
+ 
+ 
+Cash and cash equivalents
+ 
+951,088
+ 
+973,877
+ 
+Trade receivables
+ 
+140,382
+ 
+246,107
+ 
+Trade receivables - related parties
+ 
+135,180
+ 
+74,996
+ 
+Accrued income - related parties
+ 
+75,323
+ 
+49,060
+ 
+Inventories
+ 
+1,005,607
+ 
+658,559
+ 
+Current tax assets
+ 
+8,010
+ 
+7,184
+ 
+Assets held for sale
+ 
+—
+ 
+63,224
+ 
+Other current assets
+ 
+160,816
+ 
+107,327
+ 
+Other current assets - related parties
+ 
+2,890
+ 
+—
+ 
+Total current assets
+ 
+2,479,296
+ 
+2,180,334
+ 
+Total assets
+ 
+4,386,464
+ 
+3,942,451
+ 
+Equity
+ 
+ 
+ 
+Share capital
+ 
+(21,168
+)
+(21,165
+)
+Other contributed capital
+ 
+(3,587,871
+)
+(3,584,232
+)
+Foreign currency translation reserve
+ 
+42,796
+ 
+12,265
+ 
+Accumulated deficit
+ 
+4,195,176
+ 
+3,726,775
+ 
+Total equity
+ 
+628,933
+ 
+133,643
+ 
+Liabilities
+ 
+ 
+ 
+Non-current liabilities
+ 
+ 
+ 
+Non-current contract liabilities
+ 
+(60,866
+)
+(50,252
+)
+Deferred tax liabilities
+ 
+(461
+)
+(476
+)
+Other non-current provisions
+ 
+(107,844
+)
+(73,985
+)
+Other non-current liabilities
+ 
+(60,641
+)
+(14,753
+)
+Earn-out liability
+ 
+(210,019
+)
+(598,570
+)
+Other non-current interest-bearing liabilities
+ 
+(74,529
+)
+(85,556
+)
+Total non-current liabilities
+ 
+(514,360
+)
+(823,592
+)
+Current liabilities
+ 
+ 
+ 
+Trade payables
+ 
+(96,079
+)
+(98,458
+)
+Trade payables - related parties
+ 
+(632,354
+)
+(957,497
+)
+Accrued expenses - related parties
+ 
+(323,462
+)
+(164,902
+)
+Advance payments from customers
+ 
+(18,487
+)
+(40,869
+)
+Current provisions
+ 
+(63,884
+)
+(74,907
+)
+Liabilities to credit institutions
+ 
+(2,036,525
+)
+(1,328,752
+)
+Current tax liabilities
+ 
+(14,370
+)
+(10,617
+)
+Interest-bearing current liabilities
+ 
+(28,821
+)
+(21,545
+)
+Interest-bearing current liabilities - related parties
+ 
+(829,658
+)
+(16,690
+)
+Current contract liabilities
+ 
+(101,224
+)
+(46,217
+)
+Class C Shares liability
+ 
+(10,000
+)
+(28,000
+)
+Other current liabilities
+ 
+(308,174
+)
+(393,790
+)
+Other current liabilities - related parties
+ 
+(37,999
+)
+(70,258
+)
+Total current liabilities
+ 
+(4,501,037
+)
+(3,252,502
+)
+Total liabilities
+ 
+(5,015,397
+)
+(4,076,094
+)
+Total equity and liabilities
+ 
+(4,386,464
+)
+(3,942,451
+)
+Polestar Automotive Holding UK PLC
+Preliminary Unaudited Consolidated Statement of Cash Flows
+(in thousands of U.S. dollars unless otherwise stated)
+ 
+ 
+For the nine months
+			ended September 30,
+ 
+ 
+2023
+ 
+2022
+Cash flows from operating activities
+ 
+ 
+ 
+Net loss
+ 
+(468,400
+)
+(203,347
+)
+Adjustments to reconcile net loss to net cash flows:
+ 
+ 
+ 
+Depreciation and amortization expense
+ 
+101,499
+ 
+140,063
+ 
+Warranties
+ 
+56,805
+ 
+—
+ 
+Inventory impairment
+ 
+39,415
+ 
+—
+ 
+Finance income
+ 
+(21,487
+)
+(1,485
+)
+Finance expense
+ 
+153,904
+ 
+111,966
+ 
+Fair value change - Earn-out rights
+ 
+(388,552
+)
+(965,668
+)
+Fair value change - Class C Shares
+ 
+(18,000
+)
+(35,590
+)
+Listing expense
+ 
+—
+ 
+372,318
+ 
+Income tax expense
+ 
+7,581
+ 
+12,543
+ 
+Other non-cash expense
+ 
+16,646
+ 
+12,497
+ 
+Change in operating assets and liabilities:
+ 
+ 
+ 
+Inventories
+ 
+(372,504
+)
+(311,154
+)
+Vehicles under operating leases
+ 
+—
+ 
+17,722
+ 
+Contract liabilities
+ 
+69,033
+ 
+(16,390
+)
+Trade receivables, prepaid expenses and other assets
+ 
+(113,113
+)
+(43,458
+)
+Trade payables, accrued expenses and other liabilities
+ 
+(306,039
+)
+(60,645
+)
+Interest received
+ 
+21,487
+ 
+1,485
+ 
+Interest paid
+ 
+(98,549
+)
+(37,075
+)
+Taxes paid
+ 
+(14,543
+)
+(17,207
+)
+Cash used for operating activities
+ 
+(1,334,817
+)
+(1,023,425
+)
+Cash flows from investing activities
+ 
+ 
+ 
+Additions to property, plant and equipment
+ 
+(51,699
+)
+(7,452
+)
+Additions to intangible assets
+ 
+(293,048
+)
+(642,846
+)
+Additions to other investments
+ 
+—
+ 
+(2,480
+)
+Proceeds from the sale of property, plant and equipment
+ 
+1,747
+ 
+—
+ 
+Proceeds from disposal of asset grouping classified as held for sale
+ 
+153,586
+ 
+—
+ 
+Cash used for investing activities
+ 
+(189,414
+)
+(652,778
+)
+Cash flows from financing activities
+ 
+ 
+ 
+Proceeds from short-term borrowings
+ 
+3,422,189
+ 
+1,555,201
+ 
+Principal repayments of short-term borrowings
+ 
+(1,857,680
+)
+(957,186
+)
+Principal repayments of lease liabilities
+ 
+(19,160
+)
+(11,332
+)
+Proceeds from the issuance of share capital and other contributed
+ 
+—
+ 
+1,417,973
+ 
+Transaction costs
+ 
+—
+ 
+(38,903
+)
+Cash provided by financing activities
+ 
+1,545,349
+ 
+1,965,753
+ 
+Effect of foreign exchange rate changes on cash and cash
+ 
+(43,907
+)
+(57,968
+)
+Net increase in cash and cash equivalents
+ 
+(22,789
+)
+231,582
+ 
+Cash and cash equivalents at beginning of period
+ 
+973,877
+ 
+756,677
+ 
+Cash and cash equivalents at end of period
+ 
+951,088
+ 
+988,259
+ 
+Appendix B
+Polestar Automotive Holding UK PLC
+Preliminary Non-GAAP Financial Measures 
+Polestar uses both generally accepted accounting principles (i.e., IFRS known as “GAAP”) and non-GAAP (i.e., non-IFRS) financial measures to evaluate operating performance, internal comparisons to historical performance, and other strategic and financial decision-making purposes. Polestar believes non-GAAP financial measures are helpful to investors as they provide a useful perspective on underlying business trends and assist in period-on-period comparisons. These measures also improve the ability of management and investors to assess and compare the financial performance and position of Polestar with those of other companies.
+These non-GAAP measures are presented for supplemental information purposes only and should not be considered a substitute for financial information presented in accordance with GAAP. The measures are not presented under a comprehensive set of accounting rules and, therefore, should only be read in conjunction with financial information reported under GAAP when understanding Polestar's operating performance.
+The measures may not be the same as similarly titled measures used by other companies due to possible differences in calculation methods and items or events being adjusted. A reconciliation between non-GAAP financial measures and the most comparable GAAP performance measures is provided below.
+Non-GAAP financial measures include adjusted operating loss, adjusted EBITDA, adjusted net loss, and free cash flow.
+Adjusted Operating Loss
+Polestar defines adjusted operating loss as an Operating loss, adjusted to exclude listing expense. This measure is reviewed by management and provides a relevant measure for understanding the ongoing operating performance of the business prior to the impact of the non-recurring adjusting item.
+Adjusted EBITDA
+Adjusted EBITDA is calculated as Net loss, adjusted for listing expense, fair value change of earn-out rights, fair value change of the Class C Shares, interest income, interest expense, income tax expense, depreciation, and amortization. Adjusted EBITDA is defined as EBITDA, adjusted for certain income and expenses which are significant in nature and that management considers not reflective of ongoing operational activities. This measure is reviewed by management and is a relevant measure for understanding the underlying operating results and trends of the business prior to the impact of any adjusting items.
+Adjusted Net Loss
+Adjusted net loss is calculated as Net loss, adjusted to exclude listing expense, fair value change of earn-out rights, and fair value change of the Class C Shares. This measure represents net loss, adjusted for certain income and expenses which are significant in nature and that management considers not reflective of ongoing operational activities. This measure is reviewed by management and is a relevant measure for understanding the underlying performance of Polestar's core business operations.
+Free Cash Flow
+Free cash flow is calculated as cash used for operating activities, adjusted for cash flows used for tangible assets and intangible assets. This measure is reviewed by management and is a relevant measure for understanding cash sourced from operating activities that is available to repay debts, fund capital expenditures, and spend on other strategic initiatives.
+Unaudited Reconciliation of GAAP and Non-GAAP Results
+Adjusted Operating Loss
+ 
+For the three months
+			ended September 30,
+ 
+For the nine months
+			ended September 30,
+ 
+2023
+2022
+ 
+2023
+2022
+Operating loss
+ 
+(261,205
+)
+ 
+(196,401
+)
+ 
+ 
+(734,954
+)
+ 
+(1,081,581
+)
+Listing expense
+ 
+—
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+372,318
+ 
+Adjusted operating loss
+$
+(261,205
+)
+$
+(196,401
+)
+ 
+$
+(734,954
+)
+$
+(709,263
+)
+Adjusted EBITDA
+ 
+For the three months
+			ended September 30,
+ 
+For the nine months
+			ended September 30,
+ 
+2023
+ 
+2022
+ 
+2023
+ 
+2022
+Net loss
+ 
+(155,369
+)
+ 
+299,387
+ 
+ 
+ 
+(468,400
+)
+ 
+(203,347
+)
+Listing expense
+ 
+—
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+372,318
+ 
+Fair value change - Earn-out rights
+ 
+(155,557
+)
+ 
+(546,961
+)
+ 
+ 
+(388,552
+)
+ 
+(965,668
+)
+Fair value change - Class C Shares
+ 
+(7,250
+)
+ 
+(14,059
+)
+ 
+ 
+(18,000
+)
+ 
+(35,590
+)
+Interest income
+ 
+(8,997
+)
+ 
+(711
+)
+ 
+ 
+(21,487
+)
+ 
+(1,485
+)
+Interest expenses
+ 
+59,011
+ 
+ 
+11,824
+ 
+ 
+ 
+130,736
+ 
+ 
+46,205
+ 
+Income tax expense
+ 
+2,579
+ 
+ 
+5,404
+ 
+ 
+ 
+7,581
+ 
+ 
+12,543
+ 
+Depreciation and amortization
+ 
+51,345
+ 
+ 
+69,363
+ 
+ 
+ 
+101,499
+ 
+ 
+140,063
+ 
+Adjusted EBITDA
+$
+(214,238
+)
+$
+(175,753
+)
+ 
+$
+(656,622
+)
+$
+(634,961
+)
+Adjusted Net Loss
+ 
+For the three months
+			ended September 30,
+ 
+For the nine months
+			ended September 30,
+ 
+2023
+ 
+2022
+ 
+2023
+ 
+2022
+Net loss
+ 
+(155,369
+)
+ 
+299,387
+ 
+ 
+ 
+(468,400
+)
+ 
+(203,347
+)
+Listing expense
+ 
+—
+ 
+ 
+—
+ 
+ 
+ 
+—
+ 
+ 
+372,318
+ 
+Fair value change - Earn-out rights
+ 
+(155,557
+)
+ 
+(546,961
+)
+ 
+ 
+(388,552
+)
+ 
+(965,668
+)
+Fair value change - Class C Shares
+ 
+(7,250
+)
+ 
+(14,059
+)
+ 
+ 
+(18,000
+)
+ 
+(35,590
+)
+Adjusted net loss
+$
+(318,176
+)
+$
+(261,633
+)
+ 
+$
+(874,952
+)
+$
+(832,287
+)
+Free Cash Flow
+ 
+For the nine months
+			ended September 30,
+ 
+2023
+ 
+2022
+Cash used for operating activities
+ 
+(1,334,817
+)
+ 
+(1,023,425
+)
+Additions to property, plant and equipment
+ 
+(51,699
+)
+ 
+(7,452
+)
+Additions to intangible assets
+ 
+(293,048
+)
+ 
+(642,846
+)
+Free cash flow
+$
+(1,679,564
+)
+$
+(1,673,723
+)
+Appendix C
+Certain Updated Risk Factors 
+The following risk factors should be read in conjunction with the risk factors included in Item 3.D “Risk Factors” in the Form 20-F filed with the SEC on April 14, 2023.
+Polestar’s future growth and financial performance depends on the production and sale of its current and new vehicle models on an anticipated timeline and within an anticipated cost and pricing structure.
+Polestar’s ability to meet its expectations of growth and financial performance depends on the production and sales of its current and new vehicle models on an anticipated timeline and within an anticipated cost and pricing structure. There are a number of risks inherent in the pursuit of such expectations, and—as discussed below—the occurrence of any combination of which could have a material, adverse effect on Polestar’s business, results of operations and financial condition:
+-risks relating to the production of Polestar’s current and new vehicle models, including potential delays in the production of new vehicle models, Polestar’s reliance on its strategic partners as contract manufacturers and for the provision and development of key components, technology and materials used in Polestar’s vehicles, and the availability and pricing of raw materials and components necessary for the production of Polestar’s vehicles;
+-risks relating to the cost of production of Polestar’s current and future vehicle models and other expenses of the business and Polestar’s ability to manage such costs and expenses;
+-Polestar’s ability to accurately forecast demand for its current and future vehicle models, which may, among other things, negatively impact profit margins; and
+-customer acceptance of Polestar’s current and future vehicle models, which, in addition to directly impacting sales volumes, may impact pricing levels for Polestar’s vehicles and, as a result, profit margins.
+As discussed below, if any combination of these risks were to occur, it could have a material and adverse effect on Polestar’s business, results of operations and financial condition.
+Polestar (either directly or due to its third-party suppliers and partners) has experienced in the past, and may experience in the future, delays with regard to the development, design, manufacture and commercial release of its current and new models of vehicles. Production delays can be caused by a variety of factors, including increases in the cost of or a sustained interruption in the supply or shortage of materials. Any delays may have a materially negative impact on Polestar’s results of operations and financial condition.
+The new Polestar 3 vehicle model launched in late 2022, and production is expected to begin in early 2024 and ramp-up during the same year. Production of the new Polestar 4 model will begin in the coming days and is expected to ramp up into 2024. To the extent that production or production ramp-up of these new vehicle models or of the Polestar 2, which is currently in production, is delayed or reduced, including in the newest production facility in Charleston, South Carolina (which is owned and operated by Polestar’s manufacturing partners) or other future production facilities, Polestar’s revenues, cash flow and reputation would be adversely affected. Furthermore, Polestar relies on its strategic partners and suppliers for the provision and development of many of the key components, technology and materials used in its vehicles. To the extent Polestar’s strategic partners or suppliers experience any delays or capacity constraints in providing Polestar with or developing necessary components, technology and materials, Polestar could experience delays in delivering on its timelines. Polestar may be able to establish alternate supply relationships and obtain or engineer replacement components for its vehicles, but it may be unable to do so quickly at prices or quality levels that are acceptable to it, or at all.
+Customers’ acceptance and purchase of Polestar’s vehicles are a critical components of its business. New Polestar models, including the recent Polestar 3 and Polestar 4 models, may not meet market expectations or be well-received by the market due to design, software or other characteristics, which could result in these vehicles penetrating the market at lower than expected rates and could ultimately lead to lower than expected sales volumes. Any negative third-party reviews of new Polestar models could have an adverse effect on consumer perception of these new models. In addition, if the average selling price for new models is below expectations, Polestar may be unable to meet its revenue, cash flow or gross margin expectations. As an SUV, the Polestar 3 is especially critical for the US market given its associated margin opportunity and the demand for SUVs in the US. Polestar has previously experienced lower than expected demand in the US and it could continue to do so. Additionally, Polestar’s sales volumes in the US market could be negatively impacted by delays in the enactment of regulations that incentivize broader market shifts to electric vehicles.
+Additionally, if Polestar fails to continue to sell the Polestar 2 at anticipated levels while sales of the Polestar 3 and Polestar 4 ramp-up, Polestar will be unable to meet its revenue and cash flow expectations. Any failure to meet revenue expectations from sales of the Polestar 2, Polestar 3 and Polestar 4 models or other new models could result in Polestar not meeting its gross margin and profitability expectations and could materially damage Polestar’s business, prospects, results of operations and financial condition.
+Polestar has previously experienced cost overruns and may experience cost overruns again in the future. Higher than expected cost of goods sold could occur from a variety of factors—including, but not limited to, unexpected increases in prices of raw materials; the pricing/availability of supplies and components (e.g. battery cells); higher than expected warranty claims; higher than expected equipment, freight and energy costs; reliance on third-party partner manufacturing and the imposition of new or increased customs duties, including those that could result from delays in production in the newest facilities that produce Polestar vehicles, located in Charleston, South Carolina and another location to be announced shortly, which would require continued exports of vehicles from China. This may result in higher customs duties. Additionally, any increase in Polestar’s or its manufacturing partners’ labour costs as a result of union activity, pay increases to employees or otherwise, could result in increased overall costs to Polestar. Polestar has also begun certain cost savings initiatives and it may be unable to achieve the planned cost efficiency savings. Any inability to mitigate cost overruns or to achieve anticipated cost savings would negatively impact Polestar’s financial performance.
+Polestar’s future financial performance requires Polestar to accurately forecast demand for its vehicles. To the extent Polestar underestimates demand for its vehicles, Polestar’s strategic partners and suppliers may have inadequate manufacturing capacity and/or inventory, resulting in the interruption of manufacturing of Polestar’s products and possible delays in shipments and revenues. To the extent Polestar overestimates demand, Polestar may need to offer deeper discounts and experience greater than expected sales volumes of discounted vehicles. For example, Polestar’s competitors have recently cut prices for their models in order to address supply relative to demand for electric vehicles, and Polestar may be forced to do the same in order to remain competitive. Polestar may also experience higher than expected advertising, sales and promotion costs or may be unable to effectively charge such costs to its customers, which could have negative effects on Polestar’s financial performance. An inaccurate forecast in demand for its products may also result in a negative shift in its product mix (e.g., vehicles sold with fewer options and trim levels, higher than expected sales volumes of lower-priced variants). Furthermore, Polestar may experience shifts in its sales channel mix, including, but not limited to, a higher number of lower-margin fleet sales than planned. It may also experience a shift in Polestar’s regional sales mix, especially lower than expected sales in the United States, which Polestar is currently experiencing. It may also need to write-down the value of its inventory. If Polestar experiences fluctuations in the demand for its products that is not accurately forecasted, it may experience one or more of the impacts outlined above and its results of operations and financial condition may be negatively affected. Lower gross margin, in conjunction with higher than expected expenses (including, but not limited to, selling, general and administrative expenses and research and development expenses), among other factors, could ultimately lead to lower operating margin, cash flow and profitability as well.
+Polestar’s future growth and financial performance are dependent on it meeting its ability to generate positive cash flow from its operations and to raise the necessary capital to fund its business plan and service its debt obligations.
+If Polestar is unable to raise additional funds through equity and debt financings, or other means when needed, it may be required to delay, limit, reduce, or, in the worst case, discontinue the production and sale of its vehicles as well as research and development and commercialization efforts and may not be able to fund continuing operations, all of which could adversely impact Polestar’s business, results of operation and financial condition. Polestar has in the past and expects to continue to accumulate a deficit on both a cash and IFRS basis until at least 2025. After giving effect to the $200 million increase in available borrowings under the credit facility with Volvo Cars and entry into the new $250 million credit facility with Geely Sweden Automotive Investment AB and existing financing and liquidity support from Geely Holding and Volvo Cars, Polestar estimates that approximately $1.3 billion in incremental external funding will be required to fund its current business plan through the end of fiscal year 2025. As a result of these cash requirements, Polestar will need to obtain additional financing and intends to do so through a combination of equity and debt financings, or other means. To the extent Polestar raises additional capital through the sale of equity or convertible debt securities, the ownership interest of its shareholders may be diluted, and the terms of such securities may include liquidation or other preferences that adversely affect the rights of its existing shareholders. Debt financing, if available, may involve agreements that include covenants limiting or restricting Polestar’s ability to take specific actions, such as incurring additional debt, making capital expenditures, or declaring dividends. Any financing arrangements may require the payment of higher interest or preferred dividends, which will impact cash retention. If Polestar is unable to raise additional funds through equity and debt financings, or other means when needed, it may be required to delay, limit, reduce, or, in the worst case, discontinue the production and sale of its vehicles, as well as related research and development and commercialization efforts, and may not be able to fund continuing operations, all of which could have a material adverse effect on Polestar’s business, results of operations and financial condition. There can be no assurance that Polestar will be able to raise the additional funding it expects to need on commercially attractive terms, or at all.
+Polestar’s future growth and financial performance envisions Polestar introducing and growing additional revenue streams, including those relating to used car sales, aftermarket sales/services, technology licensing and revenue from financing. For example, Polestar is cooperating with Volvo Cars to develop their service centre network, including the introduction of digital service booking, fault tracing, diagnostics and software download (Over-the-Air and in workshop). If Polestar fails to realize revenue from these possible additions to its business or fails to realize such revenue at the expected levels, its cash flows and profitability may be negatively impacted.
+Although it has taken initiatives to reduce its expenditures and optimize its supply chain and cost structure and increase its cash flow, these initiatives are dependent on certain assumptions, which are described in Polestar’s other risk factors, including: Polestar’s future growth and financial performance depend on its ability to generate expected revenues from its current and new vehicle models on a specific timeline and within a specific cost and pricing structure” and “The success of Polestar’s business and its future financial performance are dependent on a variety of factors, including the efficiency, cost-cutting and strategic initiatives Polestar is implementing. Cost-cutting and efficiency initiatives are complex and difficult, and additional steps may be necessary, possibly on short notice and at significant cost.” If Polestar fails to optimize its supply chain and cost structure, its cash flows and profitability may be negatively impacted.
+If Polestar’s product development or commercialization is delayed, its cash flow generation may also be delayed and its costs and expenses may be significantly higher than it currently expects. Because Polestar will incur the costs and expenses from these efforts before it receives any incremental revenues with respect thereto, Polestar expects its losses in future periods may be significant. There is no assurance that the business will generate positive cash flow in the future.
+Polestar could also experience adverse effects from making incorrect assumptions about important cash flow items. Such adverse effects could include, but are not limited to, the following: (i) a need for additional working capital due to, among other reasons, higher than expected inventory days and a lack of availability of trade finance facilities; (ii) higher than expected capital expenditures related to new vehicle development; (iii) unexpected decreases in cash flow from financing activities, which could be the result of, among other factors, an inability to roll one or more of the working capital facilities with Chinese banking partners in 2024 or 2025; (iv) an inability to refinance its existing indebtedness; or (v) an inability to raise additional financing in 2024, which would ultimately result in continued use of the China-based working capital facilities for longer than expected and until they can be gradually refinanced, and such facilities may not be available on commercially reasonable terms, or at all.
+The deficits that Polestar has incurred, and may continue to incur in the future, fluctuate significantly from period to period; thus, even if Polestar achieves positive cash flow from its operations, it may not be able to sustain or increase such positive cash flow on a quarterly or annual basis. If Polestar is unable to generate positive cash flow from operations and raise the necessary capital to fund its business plans and service its debt obligations, Polestar may not have sufficient resources to conduct its business as projected and may have to discontinue or delay the research and development, production and sale of its vehicles or reduce its operating expenses, each of which could result in a material, adverse effect on Polestar’s business, results of operations and financial condition.
+Additionally, Polestar’s international operations require cash in various subsidiaries. There is a risk that cash is trapped in one or more subsidiaries due to various corporate or tax laws, which may result in Polestar’s inability to adequately fund its operations, which would have a materially negative impact on its results of operations. For example, Polestar Performance AB (PPAB), Polestar’s main group operating subsidiary, uses the most cash in its operations. However, under Swedish law there is a minimum equity requirement and PPAB is not allowed to consume more than half of its registered share capital. PPAB’s equity level is constantly monitored, and it periodically requires equity injections from Polestar Automotive Holding UK PLC. If cash is trapped in parts of the Polestar group, such as in PPAB as equity, and cannot be used for the group’s operations or be used for the repayment of debt, if the minimum cash requirement is higher than anticipated or if there is simply insufficient cash to meet this minimum equity requirement, there may be a materially adverse impact on Polestar’s results of operations.
+Polestar’s reliance on strategic partners and on key suppliers for manufacturing its vehicles could result in excess capacity or insufficient capacity to meet demand for its vehicles or manufacturing delays.
+Polestar depends on strategic partners and key suppliers for manufacturing its vehicles. Polestar employs an asset-light business model that utilizes contract manufacturing and supply arrangements primarily with Volvo Cars and Geely. Polestar believes this business model requires significantly less capital to produce vehicles and generate revenue compared to traditional manufacturers or other electric vehicle companies. However, if Polestar overestimates its requirements, its strategic partners or suppliers may have excess manufacturing capacity and/or inventory, which would indirectly increase Polestar’s costs as Polestar may pay for production capacities that it reserved but will not be able to use, negatively impacting its gross margins and potentially affecting when Polestar will become profitable. Underestimation of such requirements could have a similarly material, adverse effect. Polestar also depends on its strategic partners to ensure that new production facilities are operational in the expected timeframe and with the expected capacity. If Polestar underestimates its production requirements, its strategic partners and suppliers may have inadequate manufacturing capacity and/or inventory, which could interrupt manufacturing of its products and result in delays in shipments and revenues. In addition, lead times for materials and components that Polestar’s suppliers order may vary significantly and could depend on factors such as the specific supplier, contract terms and demand for each component at a given time. If Polestar fails to order sufficient quantities of product components in a timely manner, the delivery of vehicles to its customers could be delayed. If Polestar’s partners are unable to deliver necessary components of Polestar’s products on schedule or at quality levels and volumes acceptable to Polestar, or if Volvo Cars and Geely experience manufacturing delays beyond Polestar’s control, the production of Polestar’s vehicles could be delayed. The underestimation of manufacturing requirements or failure to timely deliver vehicles would harm Polestar’s brand, business, prospects, results of operations and financial condition.
+The success of Polestar’s business and its future financial performance are dependent on a variety of factors, including the efficiency, cost-cutting and strategic initiatives Polestar is implementing. Cost-cutting and efficiency initiatives are complex and difficult, and additional steps may be necessary, possibly on short notice and at significant cost.
+Polestar is engaged in a variety of cost-cutting activities and strategic efficiency initiatives. Its objective is to reduce costs and improve operational efficiencies, realize productivity gains, distribution and logistical efficiencies and overhead reductions. In addition, Polestar expects to continue to restructure its operations as necessary to improve operational efficiency, including occasionally opening or closing offices, facilities or plants. The successful execution of cost-cutting initiatives will involve sourcing, logistics, technology and employment arrangements. Because these initiatives can be complex, there may be difficulties or delays in the implementation of any such initiatives and they may not be immediately effective, resulting in an adverse material impact on Polestar’s financial performance. It will also involve working with suppliers and partners to identify and generate efficiency who may be unwilling or unable to implement any initiatives. Gaining additional efficiencies may be difficult and will likely become increasingly difficult over time as Polestar’s asset-light business model limits opportunities to realize operational efficiencies. In addition, there is a risk that inflation and increased competition may reduce the efficiencies now available. Therefore, there can be no assurances that the efficiency and cost-cutting initiatives will be completed as planned or achieve the desired results. There may also be one-time and other costs and negative impacts relating to restructurings and anticipated cost savings, and Polestar’s strategies may not be implemented or may fail to achieve desired results.
+If Polestar is unable to generate anticipated cost savings, successfully implement its strategies or optimize its supply chain, it may not realize all anticipated operational and efficiency benefits and cost savings, which could adversely affect its business and long-term strategies. It could also require Polestar to use more of its cash and to seek new or additional financing sooner than expected or at an undesirable cost. These goals and strategies may not be implemented or may fail to achieve the desired results if we are unable to manage Polestar’s costs effectively. Profitability and cash flow could also suffer, which could also adversely affect Polestar’s business, financial condition and results of operations.
+Polestar may be unable to adequately control or predict the substantial costs associated with its operations.
+Polestar has incurred and expects to continue to incur significant costs and expenses in its operations and growth of its business, including those related to developing and manufacturing its vehicles, marketing and building its brand, raw material procurement costs and general and administrative costs. Polestar has made and expects to continue to make significant investments to design, research and develop, produce and market new vehicle models. Such investments can negatively affect Polestar’s profitability. Additionally, the revenues from new models may not be sufficient to recoup the costs and investments associated with their development and may impact Polestar’s ability to generate future cash flow.
+If Polestar does not enter into longer-term supplier agreements with guaranteed pricing for its parts or components, it may be exposed to fluctuations in prices of components, materials, labor and equipment. Agreements for the purchase of battery cells and other components contain or are likely to contain pricing provisions that are subject to adjustment based on changes in market prices of key commodities. Substantial increases in the prices for raw materials including lithium, cobalt and nickel for batteries, components, labor and equipment, whether due to supply chain or logistics issues or due to inflation or other economic conditions, would increase Polestar’s operating costs and could reduce its margins if it cannot recoup the increased costs. Any attempts to increase the announced or expected prices of Polestar’s vehicles in response to increased costs could be viewed negatively by its customers or potential customers and could adversely affect Polestar’s business, prospects, financial condition or results of operations. Additionally, Polestar has certain minimum purchasing commitments to its manufacturing partners and suppliers. If Polestar is unable to meet these commitments, then Polestar’s manufacturing partners and suppliers may attempt to pass the costs associated with such commitments to Polestar.
+In the event that these expenses are significantly higher than Polestar anticipates, Polestar could be required to seek additional financing earlier than it expects. If Polestar is unable to cost-efficiently develop, design, manufacture, market, sell, distribute and service its vehicles, its margins, profitability and prospects would be materially and adversely affected.
+Polestar’s success depends on the success of its current and future partnerships, which could be adversely affected by its lack of sole decision-making authority and the actions of its co-owners or partners.
+Polestar recently entered into a joint venture agreement with the technology company Xingji Meizu Group (“Xingji Meizu”) and may enter into other joint ventures or other strategic partnerships in the future. The joint venture is expected to strengthen Polestar’s position and offering in the Chinese electric vehicle market by bringing together Polestar’s capabilities within design and performance with the software and consumer electronics hardware development expertise of Xingji Meizu. The joint venture intends to develop Xingji Meizu’s existing technology platform, Flyme Auto, into an operating system for Polestar cars sold in China, including in-car apps, streaming services, and intelligent vehicle software as well as mobile and augmented reality devices and customer apps. Polestar owns 49% of the joint venture company equity, with the remaining 51% owned by Xingji Meizu. The success of Polestar’s joint venture with Xingji Meizu, including its ability to meet sales expectations in China, is critical to Polestar’s overall performance; if the joint venture does not perform as expected, Polestar’s ability to ramp up its business and sales in China could be detrimentally affected. There is no assurance that this joint venture will be successful. Customers may not purchase vehicles from the joint venture, and the margins on the vehicles sold in China will be lower than that in other markets. Additionally, the technology intended to be developed by the joint venture may not be successful or may not ultimately be adopted or utilized by the end consumer. It may take longer to develop and may cost more to develop than anticipated.
+Additionally, there is no assurance that the joint venture will be able to maintain, identify or secure suitable business relationships in the future or that these relationships will be successful.
+In its joint venture with Xingji Meizu and other arrangements, Polestar shares ownership and management of a company with one or more parties who may not have the same goals and priorities as Polestar and may compete with Polestar outside the joint venture. Joint ventures are intended to be operated for the benefit of all co-owners, rather than for Polestar’s exclusive benefit. If a co-owner changes, relationships deteriorate or strategic objectives diverge, Polestar’s success in the joint venture may be materially adversely affected. Further, some of the benefits from a joint venture are shared among the co-owners, so Polestar may not receive all of the benefits of a successful joint venture.
+In addition, because Polestar shares ownership and management with one or more parties, Polestar may have limited control over the actions of a joint venture, particularly when it owns a minority interest, as in the joint venture with Xingji Meizu. To the extent another party makes decisions that negatively impact the joint venture or internal control issues arise within the joint venture, Polestar may have to take responsive actions, or Polestar may be subject to penalties, fines, financial and legal liabilities or other punitive actions for these activities. The value of the joint venture may also be materially negatively impacted.
+If Polestar’s estimates or judgments relating to its critical accounting policies are based on assumptions that change or prove to be incorrect, Polestar’s results of operations could fall below expectations of securities analysts and investors, resulting in a decline in the market price of its ordinary shares.
+The preparation of financial statements in conformity with IFRS requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. Polestar bases its estimates on historical experience and on various other assumptions that it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets, liabilities, equity, revenue and expenses that are not readily apparent from other sources. Significant assumptions and estimates used in preparing Polestar’s consolidated financial statements include those related to revenue recognition, inventory valuation, income taxes, impairment of long-lived assets, share-based compensation, operating leases and fair value of ordinary shares. If these assumptions change or if actual circumstances differ from those in these assumptions, Polestar’s results of operations may be adversely affected and may fall below the expectations of securities analysts and investors, resulting in a decline in the market price of Polestar’s ordinary shares.
+Polestar faces risks associated with international operations, including tariffs and unfavourable regulatory, political, tax and labour conditions, which could materially and adversely affect its business, prospects, results of operations and financial condition.
+Polestar has operations and subsidiaries in Europe, North America and Asia that are subject to the legal, political, regulatory and social requirements and economic conditions in these jurisdictions. Additionally, as part of its growth strategy, Polestar intends to expand its sales, maintenance and repair services and manufacturing activities to new countries in the coming years. However, Polestar has limited experience in manufacturing, selling or servicing its vehicles, and such expansion would require it to make significant expenditures, including the hiring of local employees, in advance of generating any revenue.
+Polestar is subject to a number of risks associated with international business activities that may increase its costs; impact its ability to sell, service and manufacture its vehicles; and require significant management attention.
+These risks include:
+For example, many of Polestar’s vehicles are manufactured in China. The European Union has recently announced that they are investigating whether battery electric vehicle manufacturers in China receive or benefit from state subsidies in China. This investigation may result in higher import tariffs on Polestar’s vehicles. Additionally, the newest Polestar manufacturing facility in Charleston, South Carolina and a future anticipated facility (which are owned and operated by Polestar’s manufacturing partners) as well as any potential future facilities, are anticipated to reduce the risk of higher import or custom duties in the US. If these manufacturing facilities do not ramp up as expected, Polestar will rely more heavily on imported inventory from China and its vehicles may be subject to higher tariffs.
+In addition to the above risks, Polestar may be impacted by the upcoming enactment of Sweden’s new foreign direct investment (“FDI”) regime. The reintroduction of this FDI regime will go into effect on December 1, 2023 and includes, among other items, a mandatory filing obligation for investors of, and a required authorization for implementation of investments in, companies that are located in Sweden and that are engaged in certain sensitive industries, sectors, and activities. It is currently unclear whether Polestar will ultimately be affected. Due to the novelty of the regime and the evolving nature of FDI-related matters, Polestar cannot definitively state that it will not be directly or indirectly impacted by the new Swedish FDI regime. If Polestar is ultimately directly or indirectly impacted by Sweden’s new FDI regime, it may have a materially negative impact on its business, results of operations and financial condition.
+The ongoing conflicts between Russia and Ukraine and in Israel and the Gaza Strip have, and are likely to continue to, generate uncertain geopolitical conditions, including sanctions, economic boycotts, and divestment initiatives that could adversely affect Polestar’s business prospects and results of operations.
+Russia and Ukraine are not Polestar markets, and there are no plans to launch in either market in the near future. However, Israel is a Polestar market and Polestar has some suppliers with operations in Israel. The uncertain geopolitical conditions, sanctions, and other potential impacts on the global economic environment resulting from Russia’s invasion of Ukraine and the recent escalation in the conflict between Hamas and Israel may weaken demand for Polestar’s vehicles and impact its ability to access production components, which could make it difficult for Polestar to forecast its financial results and manage its inventory levels. Polestar has suppliers in Israel, including Mobileye and StoreDot. If the conditions in Israel interrupt Polestar’s suppliers’ operations or limit the ability for Polestar’s suppliers to operate, Polestar’s business can be harmed. Additionally, in the past, Israel and Israeli companies have been, and continue to be, subject to economic boycotts and divestment initiatives, which could negatively impact Polestar’s business given Polestar’s relationship with Mobileye and StoreDot. The uncertainty surrounding these conditions and the current, and potentially expanded, scope of international sanctions against Russia may cause unanticipated changes in customers’ buying patterns or may adversely impact operations of Polestar's suppliers. Sanctions have also created supply constraints and driven inflation that has impacted, and may continue to impact, Polestar’s operations and could create or exacerbate risks facing Polestar’s business.
+Polestar vehicles are manufactured at facilities owned and operated by Volvo Cars. While Polestar understands that Volvo Cars does not have any “Tier 1” suppliers from Russia, car production is a complex process, with thousands of components sourced from all over the world. There can be no assurance, therefore, that there will not be some components sourced from suppliers subject to sanctions against Russia nor that the resulting disruption to the supply chain will not have an adverse impact on Polestar's business and results of operations and financial condition.
+In the event geopolitical tensions deteriorate further or fail to abate, additional governmental sanctions may be enacted that could adversely impact the global economy, banking and monetary systems, markets, and the operations of Polestar and its suppliers.
+If Polestar fails to successfully address these risks, its business, prospects, results of operations and financial condition could be materially harmed.
+__________________________
+1 The period over period numeric and percentage variances discussed below, related to the key unaudited financial results, are calculated using the financial statements in Appendix A as a base.

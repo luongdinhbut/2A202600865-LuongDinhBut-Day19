@@ -1,0 +1,155 @@
+Query: Region-specific sentiment analysis of US electric vehicle industry
+Title: US electric vehicle charging market growth: PwC
+Link: https://www.pwc.com/us/en/industries/industrial-products/library/electric-vehicle-charging-market-growth.html
+Snippet: According to a PwC analysis, the EV charging market could — and will need to ... Consumer sentiment surrounding EVs seems to be at a tipping point as well.
+
+Full Content:
+More
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+Featured
+How the 2024 election will impact your business
+Executive leadership hub - What’s important to the C-suite?
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+Featured
+Tech Effect
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+Featured
+Shared success benefits
+Loading Results
+No Match Found
+The race for electric vehicle (EV) adoption is heating up, backed by the tailwinds of consumer interest, massive buy-in by automakers and ramped-up government funding. Electric transportation got a jolt of support from the 2021 Infrastructure Investment and Jobs Act — which funds $7.5 billion in EV charging infrastructure. Most recently, the Inflation Reduction Act provided tax credits for both new and used electric passenger vehicles as well as for commercial vehicles, and California announced it will ban the sale of new internal combustion engine-powered vehicles by 2035.
+The momentous push behind electrification of transportation begs crucial questions. How can the charging infrastructure be built at a pace to sufficiently support an expected acceleration of EV adoption? And, if it can, how — and where — will America juice up? And, what are the best entry points and strategies for businesses to enter the EV charging market to forge a winning strategy?
+According to a PwC analysis, the EV charging market could — and will need to — grow nearly tenfold to satisfy the charging needs of an estimated 27 million EVs on the road by 2030. While building such a national charging network can be challenging and require numerous stakeholders and investments, it will be a necessary step to shape — and determine — the viability of a future of all-electric vehicular transport in the US.
+The four main value pools of the EVSE market include hardware, software, installers and charge point operators (CPOs). Of these, according to our analysis, CPOs (which build, operate and maintain EV charging stations) are estimated to account for the bulk of the market’s value from roughly half currently to 65% in 2040 (for revenues of about $65 billion). Meanwhile, hardware providers’ share of the sector’s total value pool is estimated to diminish over time, from 46% now to 35% in 2030 and 20% in 2040.
+The number of charge points in the US is forecast to rise from about 4 million currently to 35 million in 2030, according to a PwC analysis. We forecast that single-unit and multi-unit residential segments will account for about 80% of all charge points (22 million and 6 million, respectively) by 2030.
+The accelerated expansion of the charging infrastructure will be needed to serve the needs of a new generation of EV owners. We forecast that the number of EVs in the US will climb a steep hockey-stick trajectory to 27 million by 2030 and 92 million by 2040. This compares to about 3 million EVs in 2022 (3% of all new car sales, or about 1% of car parc).
+The proliferation of EVSE startups and the growth of the sector is signaling that we’re entering a period of a rapid maturation of the industry. 
+The fastest-growing charging segment is expected to be the at-work segment, set to grow from nearly zero percent of the entire market to about 17% (or about 6 million charge points) in 2030, according to our study. Apartment buildings (multi-unit residential) are forecast to be another fast-growing segment, rising from nearly nil currently to about 15% of all the market in 2025 and 17% in 2030. Such growth will likely hold important implications for companies as well as engineering and construction firms, which will likely be expected to build charging points into the design of new buildings (e.g., in parking lots or garages) — or retrofit that infrastructure in existing buildings.
+The needs and hence product requirements vary significantly for each segment
+Segment
+Needs
+Product requirement
+Residential single-unit
+Home charging (6-8 hours), connectivity features
+Level 2 (wall box, mobile cable charger)
+Residential multi-unit
+Intuitive to use, quick customer service, back-end charger management
+Level 2 (wall box, or pedestal hardwired charger, or 240V outlet for mobile cable charger)
+Workplace/Office
+Reliable and easy to use for employees
+Pedestal hardwired Level 2 charger (up to 9.6kW)
+Fleet 
+Long outdoor life, robust back-end management with reasonable upfront costs or financing option, swift repair/maintenance
+Pedestal hardwired Level 2 charger (9.6kW or faster)
+Destination 
+Direct use with integrated payments and reliable output
+Pedestal hardwired Level 2 charger (9.6kW or faster)
+Public parking
+Visible to customers, easy to access via app, and inexpensive to install
+Pedestal hardwired Level 2 or 3 charger (up to 50kW)
+On-the-go
+Consistent charging output, easy to pay, tidy cable management, and back-end charger management
+Pedestal hardwired Level 3 or 4 charger (150kW or faster)
+While we forecast that, by 2030, 70% of residential chargers (typically for single-family homes) will be sold (or bundled with a new car purchase) by EV sellers (i.e., original equipment manufacturer, dealership franchises), installers/integrators can be the most important channel building out charging infrastructure in all other segments. This is particularly the case in the on-the-go segment—installers/integrators are forecast to serve 80% of that market segment—followed by public parking and multi unit residential, with that channel controlling 45% of both market segments.
+The 2021 Infrastructure Investment and Jobs Act funded $7.5 billion to support the buildout of a national public electric vehicle (EV) charging network, particularly along interstate highways. This funding was crucial to support President Joe Biden’s ambition of having EVs account for half of all car and truck sales by 2030. Building on that legislation, the $370 billion Inflation Reduction Act includes tax credits on selected EVs assembled in North America.
+Meanwhile, numerous state and municipal governments are either investing directly in or subsidizing EV charging infrastructure development within their jurisdictions. Consider, for example, New York’s $21 million Central Hudson EV Make-Ready program, or California’s $7 million Bay Area Quality Management District’s Charge! Program which offset the costs of installing publicly available chargers for commercial EV vehicles. In many cases, though, these charging infrastructure networks are Level 2 roadside or parking lot solutions. Utilities, too, are moving into the EV charging space. PSE&G in New Jersey, for example, is one of many utilities offering credit to customers to offset charging station installation or upgrades.
+Consumer sentiment surrounding EVs seems to be at a tipping point as well. More viable and convenient charging solutions will likely serve to allay the “range anxiety” many consumers now wrestle with. Despite their concerns over the ease of charging, especially on long trips, consumers are opening up to the prospect of purchasing EVs. A recent PwC survey found that roughly one in two car buyers considered buying an EV for their last car purchase, while just 5% did so, with charging being cited as one of their top concerns.
+Clearly, there exist challenges for each EV charging segment, many of which hinge on the economics of EV charging.
+Here are some challenges for specific EV charging segments that will need to be addressed to remove barriers to full-fledged adoption of charging.
+Possible challenges 
+Awareness. Not all homeowners fully understand what charging products and features are available and which is best for their needs and preferences.
+Possible challenges
+Resident experience. Multiresidential building owners will need to ensure that there are enough chargers for all EV owners, and the number of chargers will need to expand as residents’ needs do.
+Possible challenges
+Investment. For some employers, there may be high upfront costs benefitting relatively few employees, making the calculus of initial investments difficult to justify.
+Possible challenges
+Optimization and upkeep. Fleet management with EV chargers may require greater management (vs. gas and diesel fueling) to ensure charger availability, avoiding vehicle downtime and coordination with duty cycles.
+Possible challenges
+High cost, limited monetization. With high hardware and installation costs, destination charging may mean, for some owners, that monetization opportunities could be limited in the short term.
+Possible challenges
+Low ROI in the short term. High hardware and installation costs and potentially low usage and uptake, as well as construction and installation issues, particularly in high-density areas.
+Possible challenges
+Chicken-and-egg conundrum. Charge points will not be attractive investments unless they are utilized at a certain scale; yet, EV adoption may be blunted if range anxiety is not allayed, which can only happen by achieving that scale.
+As the EVSE market matures over the next two decades, we expect key players in the market to mature — and capture returns on their investments — at varying rates. Here are some of our main takeaways on the prospects surrounding the value propositions of the principal players in the EVSE value chain.
+Hardware developers and manufacturers. Many EVSE product developers are facing high upfront expenditures for research and development and manufacturing. While we see such costs as necessary to stay competitive and grow in the short term, we believe hardware players stand to increasingly benefit in the long term from growing demand for EVSE products and service and as they ramp up economies of scale.
+Software products and services. Software players now generating revenue streams in the EVSE space are typically doing so via specialized solutions such as custom back-end and customer-facing needs. Expect margins to improve as fleet management solutions and large-scale enterprise back-end solutions are implemented for on-the-go ecosystems.
+Installation services. Currently a lower-margin business, we expect this channel will scale rapidly as public charging infrastructure expands, especially as the governmental funding disburses. Installation businesses should reach a tipping point as rates of new installs diminish and are eclipsed by a rising demand for retrofitting older built environments.
+Charge point operators (CPOs) Once EV adoption rates approach mainstream (e.g. exceeding 25% of parc) integrated CPOs have the potential to greatly improve their top and bottom lines from bundled offerings including EVSE financing, operation, maintenance and utility charging (the latter from on-the-go and destination chargers). Many CPO businesses are in a long-game mode — and are thus burdened by heavy capital expenditures and low utilization rates. It will likely be a challenging business model to execute. However, for those that continue to manage to grow, the effort could pay strong dividends when EV adoption in the US becomes mainstream and charge points necessarily become as, or more, ubiquitous than today’s gas pumps.
+As the EVSE market becomes increasingly dynamic and competitive, companies should get the following right to develop a winning value proposition and business strategy.
+ESG regulations and your company
+Actions to transform your ESG reporting strategy
+What a national public EV-charging rollout could look like and what to consider when evaluating an EV-charging business model.
+PwC's automotive services and solutions help clients tackle key business challenges with a focus on both the present and the future of the automotive industry.
+A national network of chargers that satisfies customer demand and preferences will do much to support greater adoption of EVs.
+
+                                    
+                                    
+                                        Akshay Singh
+                                    
+                                
+Industrial and Automotive Industries Principal, Strategy& US
+Anand Manthena
+Director, PwC US
+© 2017
+							
+							 - 2025 PwC. All rights reserved. PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. Please see www.pwc.com/structure for further details.

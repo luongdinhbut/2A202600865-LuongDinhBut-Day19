@@ -1,0 +1,46 @@
+Query: Trends in the US electric vehicle market sentiment
+Title: Battery trends 2022: an industry view on the development of the ...
+Link: https://www.acc-emotion.com/stories/battery-trends-2022-industry-view-development-electric-vehicles-market-infographic
+Snippet: Jan 25, 2022 ... The Electric Vehicle (EV) market is expected to really take off in 2022, driven by innovation in battery manufacturing. Here are 5 EV battery trends.
+
+Full Content:
+AcceleratingSustainableMobilityFor All
+2022 will be electric!  The Electric Vehicle (EV) market is expected to really take off in 2022, driven by innovation in battery manufacturing.Here are 5 EV battery trends, identified by IDTechEx, that will be shaping the year ahead. 
+
+Despite the major hit that the global auto industry took in 2020, EV sales continued to grow globally in 2021. The overall automotive market has decreased, and the chip shortage has impacted vehicle sales but regardless, EVs are really taking off. 6.3M vehicles have been sold globally in 2021, almost twice as much as in 2020.
+China and Europe are leading the pack in terms of growth : China exhibited a 154% growth compared to last year with more than 3 millions vehicles sold vs. 1.4 millions in 2020.  Figures in Europe are also impressive, especially in Germany, who closed the year with a 26% market shares. 
+Consumer demand is so important that EVs are selling as fast as they can be produced. Nearly all the constructors have announced scaling up their production and electrification targets over the next 10 years, and many of them are bringing their strategy forward. The question is no longer “will EVs be the future of the automotive industry?”, but rather “how large will it be?” 
+While some countries are announcing a ban of combustion vehicle within the next decade, others are setting aside billions in incentives for consumers (eg. US), releasing government schemes and incentives (eg. China) or setting-up CO2 targets and consumer subsidies (eg. Europe). In any case, IDTechEx is expecting significant growth across the globe with the sales of BEV and PHEV cars in 2031 being 9.6 times larger than they were in 2020.
+
+Over the next 10 years we will see a huge increase in demand across the globe. In total IDTechEx predicts a 9.6-fold increase in BEV & PHEV car sales by 2031 compared to 2020. 
+Source: IDTechEx, Advanced Electric Cars 2020-2040
+ 
+Battery Capacity is one of the limitations to the development of electric cars. However, between 2015 - 2020, the average pack capacity for BEV and PHEV cars has increased by 81% in China and Europe and by 71% in the US. In the US where the market demands longer-range vehicles than others, the average battery capacity has been 43% higher than that of Europe and 71% higher than in China where electric vehicles are used within cities and require much shorter range. They are on the other hand, much cheaper to produce.  Indeed, capacity largely determines the price of the battery pack as they influence the demand for materials used in the production of the cells and the pack around them. For large vehicles the trend is resolutely oriented towards bigger capacities and lower charging times. However, for medium and small size vehicle and/or entry range vehicles, compromises might be necessary (strategies from EV manufacturers are still to be confirmed).
+By 2031, IDTechEx expects the kWh demand from BEV & PHEV cars to be 21.8 times greater than that of 2020. A huge opportunity for material suppliers and battery manufacturers such as ACC.
+ 
+Source: IDTechEx Electric Car Sales, Models & Technologies Database
+ 
+Another grail when it comes to EV batteries is the energy density that they can deliver to propel longer range EVs. And in this domain as well, the outlook is positive as new materials such as silicon are making an appearance on the market. Silicon and silicon oxides boast a capacity 10x greater than graphite. Furthermore, silicon could play an important role in minimizing any loss in energy density that comes from using LFP over NMC or NCA. Their use as an additive to graphite anodes is consequently likely to spread. Some battery manufacturers have already indicated they could use silicon-graphite anodes in combination with an LFP cathode. As for ACC, we are investigating the use of silicon in our NMC cathodes.  
+The advent of high silicon content anodes, combined with a greater number of automotive manufacturers adopting batteries that use silicon as an additive, and the underlying growth in BEVs means IDTechEx forecast silicon demand to surge by over 100× by 2031. 
+
+The use of silicon in anodes as an additive to graphite or in a silicon dominant fashion is set to surge over the next 10 years.
+Source: IDTechEx, Scenario Forecasting Spreadsheet: Materials for Electric Vehicle Battery Cells and Packs
+ 
+Battery manufacturing trends are going towards “cell-to-pack” or even “cell-to-body” designs, allowing for a drastic reduction in the material needed to construct a battery pack. Despite this, the rapidly growing EV market results in an increase in demand for most of the materials needed to build a battery and not just the ones necessary for cathode chemistry such as nickel, cobalt, and lithium. Battery packs are using a wide variety of metals such as steel, aluminum, and copper as well as non-metal materials such as composite structures, thermal interface materials and intercell materials. These must also be considered when looking at total demand in the future. As examples, IDTechEx predicts an 11.9-fold increase in aluminum demand and a 15.3-fold increase in copper demand for battery pack materials in 2031 compared to 2020. 
+
+Several materials in battery packs beyond the cells will see an increase in demand over the next 10 years as the EV market grows.
+Source: IDTechEx, Scenario Forecasting Spreadsheet: Materials for Electric Vehicle Battery Cells and Packs
+ 
+ 
+Aluminum has been a favorite of battery manufacturers for the enclosure of EV battery packs: its light, easy to manufacture and the automotive industry has extensive experience with its use.
+However, these past few years, demand for composite components to be used for battery enclosures such as battery lids has increased. Composites are sturdier and even lighter than aluminum. Although they haven’t completely replaced aluminum due to challenges around manufacturing, costs, qualification and providing EMI shielding, IDTechEx anticipates a significant increase in demand for composite components utilized in EV battery packs. Their analysis shows that the average demand per vehicle is set to double over the next decade resulting in a 63.5-fold increase in demand by 2031. 
+
+Aluminium is the dominant material for battery enclosures in EVs. However, composite alternatives are on the rise.
+Source: IDTechEx, Scenario Forecasting Spreadsheet: Materials for Electric Vehicle Battery Cells and Packs
+​
+ 
+ 
+ 
+​
+Accelerating sustainable mobility for all
+© 2025 Automotive Cells Company

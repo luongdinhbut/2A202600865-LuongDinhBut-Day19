@@ -1,0 +1,915 @@
+[
+  {
+    "id": "q01",
+    "question": "Những yếu tố nào liên quan đến việc tăng trưởng doanh số xe điện tại Mỹ chậm lại trong Q1 2024?",
+    "flat_answer": "Theo dữ liệu từ Kelley Blue Book được Cox Automotive phân tích, tăng trưởng doanh số xe điện (EV) tại Mỹ trong quý 1/2024 chậm lại rõ rệt, với doanh số chỉ tăng 2,6% so với cùng kỳ năm trước nhưng giảm 15,2% so với quý 4/2023 – đây là lần sụt giảm theo quý đầu tiên kể từ quý 2/2020 [doc_2]. Các yếu tố chính liên quan đến sự chậm lại này bao gồm:\n\n- **Sự sụt giảm doanh số của Tesla**: Tesla – hãng dẫn đầu thị trường – ghi nhận doanh số sụt giảm đáng kể, ảnh hưởng trực tiếp đến động lực chung của toàn thị trường [doc_2].\n- **Giá bán thấp hơn không thúc đẩy được",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, có hai yếu tố chính liên quan đến việc tăng trưởng doanh số xe điện tại Mỹ chậm lại trong Q1 2024:\n\n1.  **Thị phần xe điện trong tổng doanh số bán xe mới giảm**: Tỷ lệ xe điện trên tổng doanh số bán xe mới tại Mỹ trong quý 1 năm 2024 đã giảm so với quý 4 năm 2023 [doc_2].\n2.  **Sự sụt giảm doanh số và thị phần của Tesla**: Doanh số của Tesla tại Mỹ đã giảm 13,3% so với cùng kỳ năm ngoái [doc_2]. Đồng thời, thị phần của hãng này trên thị trường xe điện cũng giảm mạnh từ 61,7% trong quý 1 năm 2023 xuống còn 51,3% trong quý 1 năm 2024 [doc_2].",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "graph",
+      "flat_grounded": true,
+      "graph_grounded": true,
+      "flat_risk": "Answer is truncated and incomplete, missing the second factor and potentially other relevant details.",
+      "graph_advantage": "Provides a complete, specific list of factors with precise numerical data and clear citations."
+    }
+  },
+  {
+    "id": "q02",
+    "question": "Tesla đã ảnh hưởng như thế nào đến bức tranh thị trường xe điện Mỹ trong Q1 2024?",
+    "flat_answer": "Dựa trên bối cảnh được cung cấp, Tesla đã ảnh hưởng đến bức tranh thị trường xe điện Mỹ trong Q1 2024 theo hướng kìm hãm đà tăng trưởng chung của toàn thị trường.\n\nCụ thể, doanh số bán hàng sụt giảm của Tesla đã tác động tiêu cực đến động lực chung của thị trường. Theo phân tích từ Cox Automotive, \"As anticipated, Tesla’s sales took a hit, influencing the overall market dynamics\" [doc_2]. Điều này góp phần khiến doanh số xe điện toàn thị trường Mỹ trong quý 1 năm 2024 giảm 15,2% so với quý trước đó, đánh dấu lần sụt giảm đầu tiên kể từ quý 2 năm 2020 [doc_2].\n\nMặc dù Tesla đã giảm giá bán trung bình xuống còn 52.315 USD, thấp hơn khoảng 13,5% so với cùng kỳ năm ngoái, nhưng mức giá thấp hơn này đã không tạo ra sản lượng bán hàng cao hơn cho hãng [doc_2]. Trong khi đó, nhiều thương hiệu xe sang khác lại chứng kiến mức tăng trưởng doanh số EV mạnh mẽ trong cùng kỳ [doc_2].",
+    "graph_answer": "Trong quý 1 năm 2024, Tesla đã cho thấy sự ảnh hưởng đang suy giảm nhưng vẫn mang tính chi phối lên bức tranh thị trường xe điện Mỹ.\n\nCụ thể, doanh số của Tesla tại Mỹ đã giảm 13,3% so với cùng kỳ năm trước [doc_2]. Sự sụt giảm này kéo theo thị phần của hãng giảm mạnh từ 61,7% trong quý 1 năm 2023 xuống chỉ còn 51,3% trong quý 1 năm 2024 [doc_2]. Mặc dù vậy, Tesla vẫn nắm giữ hơn một nửa thị trường xe điện tại Mỹ [doc_2].\n\nBên cạnh đó, giá giao dịch trung bình của xe Tesla cũng giảm khoảng 13,5% so với cùng kỳ năm trước, xuống còn 52.315 USD, cho thấy hãng có thể đã sử dụng chiến lược giảm giá để cạnh tranh [doc_2].",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "flat",
+      "flat_grounded": true,
+      "graph_grounded": true,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: No JSON object found in LLM response. Preview: 'We are asked to judge the two answers based on grounding, specificity, and citation quality. The question is: \"Tesla đã ảnh hưởng như thế nào đến bức tranh thị '"
+    }
+  },
+  {
+    "id": "q03",
+    "question": "Các chính sách ZEV, ưu đãi người tiêu dùng và hạ tầng sạc có liên hệ gì với mức độ phổ cập xe điện tại các thành phố Mỹ?",
+    "flat_answer": "Theo tài liệu [doc_1], các chính sách ZEV (xe không phát thải) có liên hệ trực tiếp đến mức độ phổ cập xe điện: các bang áp dụng quy định ZEV đạt tỷ lệ xe điện trên tổng xe mới bán ra cao hơn (5% so với 1,3% ở bang không có quy định) và có nhiều mẫu xe điện hơn (thường nhiều hơn ít nhất 13 mẫu). Những bang này chiếm khoảng hai phần ba doanh số xe điện toàn quốc năm 2020 dù chỉ chiếm chưa đến một phần ba tổng doanh số xe hạng nhẹ. Về ưu đãi người tiêu dùng và hạ tầng sạc, tài liệu không đề cập chi tiết riêng rẽ, nhưng khẳng định các khu vực đô thị có tỷ lệ sử dụng xe điện cao nhất đều có sự kết hợp mạnh mẽ các hành động thúc đẩy từ bang, thành phố và công ty tiện ích – hàm ý rằng các chính sách hỗ trợ toàn diện (có thể bao gồm ưu đãi và hạ tầng) đóng vai trò quan trọng. Như vậy, ZEV thúc đẩy nguồn cung mẫu mã, còn các chính sách hỗ trợ khác góp phần tạo nên thành công chung, nhưng ngữ cảnh không cung cấp đủ chi tiết để phân tích riêng tác động của ưu đãi người tiêu dùng và hạ tầng sạc.",
+    "graph_answer": "Ngữ cảnh được cung cấp không chứa thông tin về chính sách ZEV, ưu đãi người tiêu dùng, hạ tầng sạc hay mức độ phổ cập xe điện tại các thành phố Mỹ. Dữ liệu chủ yếu tập trung vào thị phần, giá bán và doanh số của Tesla, cùng một số nhận định chung về tác động của ưu đãi thuế.\n\nCụ thể, ngữ cảnh chỉ đề cập đến tác động của ưu đãi thuế đối với doanh số xe điện nói chung: \"đa số đại lý (chỉ số 57) nhận thấy ưu đãi thuế có tác động tích cực\" [doc_21]. Tuy nhiên, không có thông tin nào liên kết yếu tố này với chính sách ZEV, hạ tầng sạc hay mức độ phổ cập tại các thành phố Mỹ.\n\nDo đó, không thể trả lời câu hỏi dựa trên ngữ cảnh được cung cấp.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "flat",
+      "flat_grounded": true,
+      "graph_grounded": false,
+      "flat_risk": "none",
+      "graph_advantage": "none"
+    }
+  },
+  {
+    "id": "q04",
+    "question": "Người tiêu dùng lo ngại những gì về sạc công cộng, dung lượng pin và tầm hoạt động của xe điện?",
+    "flat_answer": "Dựa trên ngữ cảnh được cung cấp, tôi không thể trả lời câu hỏi của bạn.\n\nCác tài liệu trong ngữ cảnh ([doc_50] và [doc_60]) tập trung vào các chủ đề như quan hệ EU-Hoa Kỳ sau Đạo luật Giảm lạm phát và triển vọng kinh tế toàn cầu, và phần lớn nội dung văn bản không thể đọc được. Không có tài liệu nào đề cập đến mối lo ngại của người tiêu dùng về sạc công cộng, dung lượng pin hay tầm hoạt động của xe điện.",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, không có thông tin nào đề cập đến mối lo ngại của người tiêu dùng về sạc công cộng, dung lượng pin hay tầm hoạt động của xe điện.\n\nNgữ cảnh chỉ tập trung vào các dữ liệu về thị phần, doanh số, giá cổ phiếu và các bình luận liên quan đến Tesla và thị trường xe điện nói chung, nhưng không chứa bất kỳ khảo sát hay báo cáo nào về tâm lý hay mối bận tâm cụ thể của người tiêu dùng đối với các vấn đề trên.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "flat",
+      "flat_grounded": true,
+      "graph_grounded": false,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: No JSON object found in LLM response. Preview: 'We are asked to judge grounding, specificity, and citation quality between two answers: Flat RAG and GraphRAG. The question is about consumer concerns regarding'"
+    }
+  },
+  {
+    "id": "q05",
+    "question": "McKinsey dự báo Mỹ cần bao nhiêu cổng sạc vào năm 2025 và 2030, và vì sao điều đó quan trọng?",
+    "flat_answer": "Theo dự báo của McKinsey, Hoa Kỳ sẽ cần khoảng **9,5 triệu cổng sạc vào năm 2025** và **28,0 triệu cổng sạc vào năm 2030** [doc_70].\n\nĐiều này quan trọng vì nếu sự phát triển của cơ sở hạ tầng sạc xe điện không theo kịp nhu cầu, người tiêu dùng có thể do dự trong việc chuyển đổi từ xe động cơ đốt trong sang xe điện [doc_70].",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, không có thông tin nào đề cập đến dự báo của McKinsey về số lượng cổng sạc mà Mỹ cần vào năm 2025 và 2030, cũng như tầm quan trọng của nó. Ngữ cảnh chỉ chứa dữ liệu về thị phần, doanh số và giá của Tesla, cùng một số thông tin chung về thị trường xe điện.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "flat",
+      "flat_grounded": true,
+      "graph_grounded": false,
+      "flat_risk": "none",
+      "graph_advantage": "none"
+    }
+  },
+  {
+    "id": "q06",
+    "question": "Những hãng xe nào được nhắc tới là có tăng trưởng doanh số EV hơn 50% so với cùng kỳ trong Q1 2024?",
+    "flat_answer": "Theo tài liệu [doc_2], các hãng xe sang ghi nhận mức tăng trưởng doanh số EV hơn 50% so với cùng kỳ trong quý 1/2024 bao gồm: Cadillac (tăng 499,2%), Mercedes (tăng 66,9%) và BMW (tăng 62,6%). Audi chỉ tăng 28,8%, không đạt ngưỡng 50%.",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, không có hãng xe nào được nhắc đến là có tăng trưởng doanh số EV hơn 50% so với cùng kỳ trong Q1 2024. Tài liệu chỉ đề cập đến doanh số Q1 2024 của Tesla với mức giảm 13.3% so với cùng kỳ [doc_2], và không có thông tin về mức tăng trưởng tương tự cho bất kỳ thương hiệu nào khác trong quý này.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "graph",
+      "flat_grounded": true,
+      "graph_grounded": true,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: No JSON object found in LLM response. Preview: 'We are asked to judge the two answers: Flat RAG and GraphRAG. We need to evaluate grounding, specificity, and citation quality. Then return a JSON with winner, '"
+    }
+  },
+  {
+    "id": "q07",
+    "question": "Giá bán thấp hơn, ưu đãi và leasing đã tác động ra sao đến thị trường EV tại Mỹ?",
+    "flat_answer": "Giá bán thấp hơn đã hỗ trợ doanh số bán xe điện (EV) tại Mỹ, đặc biệt với các mẫu Tesla chủ chốt, khi giá giao dịch trung bình quý 1/2024 giảm 9% so với cùng kỳ năm trước. Tuy nhiên, mức giá thấp hơn không tạo ra khối lượng bán cao hơn, cho thấy nhu cầu đang chậm lại [doc_2]. Các ưu đãi (incentive) cũng tăng đáng kể trong năm qua, phản ánh nhu cầu suy yếu. Hoạt động cho thuê (leasing) tăng mạnh, với khoảng 27% tổng số EV được thuê trong quý 1, gấp đôi năm trước, giúp nhiều người mua đủ điều kiện nhận ưu đãi đầy đủ 7.500 USD từ Đạo luật Giảm lạm phát [doc_2]. Nhìn chung, các yếu tố này góp phần duy trì doanh số EV nhưng không đảo ngược được xu hướng tăng trưởng chậm lại, trong khi thị trường vẫn thiên về phân khúc xe sang [doc_2].",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, tác động của giá bán thấp hơn và các ưu đãi đến thị trường EV tại Mỹ được thể hiện qua các điểm sau:\n\n*   **Giá bán thấp hơn đi kèm với sự sụt giảm thị phần của hãng dẫn đầu:** Giá giao dịch trung bình của Tesla đã giảm khoảng 13.5% so với cùng kỳ năm trước, xuống còn 52.315 USD trong quý 1 năm 2024 [doc_2]. Cùng thời điểm này, thị phần của Tesla tại Mỹ đã giảm từ 61.7% (quý 1/2023) xuống còn 51.3% [doc_2]. Xu hướng này cũng được ghi nhận trong năm 2023, khi giá trung bình xe Tesla giảm xuống 50.051 USD vào tháng 12, thị phần của hãng cũng giảm từ 65% (năm 2022) xuống 55% [doc_30].\n*   **Ưu đãi thuế có tác động tích cực đến doanh số:** Đa số các đại lý (với chỉ số 57) nhận định rằng các khoản tín dụng thuế có tác động tích cực đến doanh số bán xe điện [doc_21].\n\nNgữ cảnh được cung cấp không đề cập đến tác động cụ thể của hình thức \"leasing\" (cho thuê) đến thị trường EV tại Mỹ.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "graph",
+      "flat_grounded": true,
+      "graph_grounded": true,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: No JSON object found in LLM response. Preview: 'We are asked to judge grounding, specificity, and citation quality between a flat RAG answer and a GraphRAG answer. We need to return a JSON with winner, flat_g'"
+    }
+  },
+  {
+    "id": "q08",
+    "question": "Sự khác nhau giữa sạc tại nhà, sạc công cộng và sạc tại nơi làm việc được mô tả như thế nào?",
+    "flat_answer": "Tôi không thể trả lời câu hỏi này dựa trên ngữ cảnh được cung cấp. Các tài liệu [doc_50] đều có nội dung về quan hệ EU-Hoa Kỳ sau Đạo luật Giảm lạm phát và không chứa bất kỳ thông tin nào liên quan đến sự khác nhau giữa sạc tại nhà, sạc công cộng và sạc tại nơi làm việc.",
+    "graph_answer": "Ngữ cảnh được cung cấp không chứa thông tin mô tả về sự khác nhau giữa sạc tại nhà, sạc công cộng và sạc tại nơi làm việc. Các tài liệu chỉ tập trung vào dữ liệu thị trường, doanh số và tài chính của Tesla và một số chủ đề liên quan đến xe điện khác.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "tie",
+      "flat_grounded": true,
+      "graph_grounded": true,
+      "flat_risk": "none",
+      "graph_advantage": "none"
+    }
+  },
+  {
+    "id": "q09",
+    "question": "BloombergNEF mô tả xu hướng thị trường xe điện toàn cầu năm 2024 như thế nào?",
+    "flat_answer": "Theo BloombergNEF, xu hướng thị trường xe điện toàn cầu năm 2024 được mô tả là Trung Quốc vẫn thống trị, nhưng doanh số cũng đang tăng nhanh ở các nơi khác. Xe điện không còn là hiện tượng chỉ dành cho các quốc gia giàu có, khi các nền kinh tế đang phát triển như Thái Lan, Ấn Độ, Thổ Nhĩ Kỳ, Brazil đang chứng kiến doanh số kỷ lục nhờ các mẫu xe điện giá rẻ hơn [doc_10].",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, không có thông tin nào được trích dẫn trực tiếp từ BloombergNEF để mô tả xu hướng thị trường xe điện toàn cầu năm 2024. Các tài liệu chỉ đề cập đến dữ liệu thị trường cụ thể (ví dụ: thị phần của Tesla, doanh số quý 1 năm 2024 tại Mỹ) mà không ghi rõ nguồn là từ BloombergNEF.\n\nDo đó, tôi không thể trả lời câu hỏi này vì ngữ cảnh không đủ thông tin.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "flat",
+      "flat_grounded": true,
+      "graph_grounded": false,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: No JSON object found in LLM response. Preview: 'We are asked to judge the two answers: Flat RAG and GraphRAG. The question is: \"BloombergNEF mô tả xu hướng thị trường xe điện toàn cầu năm 2024 như thế nào?\" ('"
+    }
+  },
+  {
+    "id": "q10",
+    "question": "Vai trò của Trung Quốc trong thị trường EV và chuỗi cung ứng pin được nêu ra như thế nào?",
+    "flat_answer": "Trung Quốc giữ vị trí dẫn đầu toàn cầu trong ngành xe điện (EV) và pin EV. Các doanh nghiệp nước này sản xuất gần hai phần ba số xe điện trên thế giới và hơn ba phần tư số pin EV [doc_66]. Họ cũng tạo ra những cải tiến đáng kể về sản phẩm, quy trình và trải nghiệm khách hàng [doc_66].",
+    "graph_answer": "Về vai trò của Trung Quốc trong thị trường xe điện (EV), ngữ cảnh cung cấp các thông tin sau:\n\n*   **Là cơ sở sản xuất quan trọng:** Tesla đã xuất khẩu chiếc xe thứ một triệu từ cơ sở sản xuất tại Trung Quốc [doc_56].\n*   **Là đối thủ cạnh tranh hàng đầu:** Các nhà sản xuất ô tô Trung Quốc được Elon Musk thừa nhận một cách miễn cưỡng là \"những công ty xe hơi cạnh tranh nhất thế giới\" [doc_56]. Khi được hỏi về đối thủ khó khăn nhất, Musk trả lời là \"một công ty nào đó từ Trung Quốc\" [doc_64].\n*   **Có đại diện vượt mặt Tesla:** Hãng xe Trung Quốc BYD đã vượt qua Tesla để trở thành hãng bán xe điện hàng đầu trong quý cuối năm 2024 [doc_64].\n*   **Thị phần nội địa cạnh tranh:** Tại chính thị trường Trung Quốc, Tesla chỉ nắm giữ 6,7% thị phần xe điện [doc_61].\n\nVề vai trò của Trung Quốc trong chuỗi cung ứng pin, ngữ cảnh được cung cấp không có thông tin nào đề cập đến vấn đề này.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "graph",
+      "flat_grounded": true,
+      "graph_grounded": true,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: No JSON object found in LLM response. Preview: 'We are asked to judge grounding, specificity, and citation quality between a flat RAG answer and a GraphRAG answer. The question is: \"Vai trò của Trung Quốc tro'"
+    }
+  },
+  {
+    "id": "q11",
+    "question": "EV đang ảnh hưởng như thế nào đến nhu cầu dầu và phát thải giao thông đường bộ theo các báo cáo trong corpus?",
+    "flat_answer": "Dựa trên các tài liệu được cung cấp, không có báo cáo nào đề cập đến ảnh hưởng của xe điện (EV) đến nhu cầu dầu hoặc phát thải giao thông đường bộ.\n\nCác tài liệu trong corpus tập trung vào các chủ đề khác như:\n- Tăng trưởng thị trường EV tại các thành phố Mỹ [doc_1].\n- Doanh số bán hàng và giá cả xe điện [doc_2].\n- Sự đổi mới trong ngành công nghiệp EV và pin tại Trung Quốc [doc_66][doc_43].\n- Thái độ của người tiêu dùng đối với xe điện [doc_39].\n- Một tài liệu không liên quan và không thể đọc được về triển vọng kinh tế [doc_60].\n\nDo ngữ cảnh không đủ thông tin, tôi không thể trả lời câu hỏi của bạn về tác động của EV đến nhu cầu dầu và phát thải giao thông đường bộ.",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, không có báo cáo nào đề cập trực tiếp đến ảnh hưởng của EV đối với **nhu cầu dầu** hoặc **phát thải giao thông đường bộ**.\n\nCác tài liệu chỉ tập trung vào dữ liệu về thị phần, doanh số và giá cả của xe điện, nhưng không đưa ra phân tích hay số liệu nào liên quan đến tác động của chúng lên lượng dầu tiêu thụ hoặc lượng khí thải từ giao thông đường bộ.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "flat",
+      "flat_grounded": true,
+      "graph_grounded": true,
+      "flat_risk": "none",
+      "graph_advantage": "none"
+    }
+  },
+  {
+    "id": "q12",
+    "question": "Những rào cản nào có thể khiến người mua trì hoãn chuyển từ xe động cơ đốt trong sang EV?",
+    "flat_answer": "Xin lỗi, tôi không thể trả lời câu hỏi của bạn dựa trên ngữ cảnh được cung cấp.\n\nCác tài liệu trong ngữ cảnh ([doc_60], [doc_31], [doc_50]) đều chứa dữ liệu bị hỏng hoặc không thể đọc được, không có nội dung văn bản nào liên quan đến các rào cản trong việc chuyển đổi từ xe động cơ đốt trong sang xe điện.",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, có thể xác định một số rào cản tiềm năng khiến người mua trì hoãn việc chuyển đổi từ xe động cơ đốt trong sang xe điện (EV):\n\n*   **Sự phản đối và bất ổn về chính sách:** Những tuyên bố phản đối mạnh mẽ từ các nhân vật chính trị có ảnh hưởng có thể tạo ra sự nghi ngờ và tâm lý e ngại cho người tiêu dùng. Cựu Tổng thống Donald Trump được ghi nhận là người phản đối xe điện [doc_38].\n\nTuy nhiên, cần lưu ý rằng ngữ cảnh được cung cấp chủ yếu tập trung vào dữ liệu thị trường và hiệu suất của Tesla, không liệt kê một cách hệ thống các rào cản đối với việc áp dụng xe điện nói chung. Các thông tin khác như chi phí nhiên liệu giảm [doc_38] hay tác động tích cực của tín dụng thuế [doc_21] lại là những yếu tố thúc đẩy, không phải rào cản. Do đó, câu trả lời chỉ có thể nêu được một rào cản rõ ràng từ ngữ cảnh.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "graph",
+      "flat_grounded": true,
+      "graph_grounded": true,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: No JSON object found in LLM response. Preview: 'We are asked to judge the grounding, specificity, and citation quality of two answers: Flat RAG and GraphRAG. The question is about barriers that might delay bu'"
+    }
+  },
+  {
+    "id": "q13",
+    "question": "Các yếu tố nào làm cho thị trường EV vẫn có triển vọng tăng trưởng dù tốc độ tăng trưởng ngắn hạn chậm lại?",
+    "flat_answer": "Dù tốc độ tăng trưởng ngắn hạn của thị trường EV có chậm lại, triển vọng dài hạn vẫn tích cực nhờ các yếu tố sau:\n\n- **Đổi mới công nghệ liên tục**: Trung Quốc dẫn đầu toàn cầu về sản xuất EV và pin, với những cải tiến đáng kể về sản phẩm, quy trình và trải nghiệm khách hàng [doc_66][doc_43]. Ví dụ, pin Blade của BYD có thiết kế ít bắt lửa, mật độ năng lượng cao và tuổi thọ dài hơn [doc_61]. Mercedes-Benz cũng phát triển các sáng kiến điện và kỹ thuật số mới, chuẩn bị cho thế hệ sản phẩm tiếp theo [doc_16].\n\n- **Danh mục sản phẩm mở rộng và cạnh tranh gia tăng**: Các hãng xe truyền thống như Ford, GM và Mercedes-Benz đang đẩy mạnh xe điện với nhiều mẫu mã đa dạng, từ xe phổ thông đến xe sang và xe tải [doc_61][doc_16]. Người tiêu dùng hiện có nhiều lựa chọn hơn bao giờ hết, không chỉ về loại xe mà còn về nhà sản xuất [doc_39].\n\n- **Nỗ lực giảm chi phí**: Sự xu",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, dù tốc độ tăng trưởng ngắn hạn có dấu hiệu chậm lại, triển vọng tăng trưởng của thị trường EV vẫn được hỗ trợ bởi các yếu tố sau:\n\n1.  **Lợi ích kinh tế rõ ràng cho người dùng:** Xe điện giúp giảm đáng kể chi phí nhiên liệu, lên đến hai phần ba [doc_38]. Đây là động lực tài chính mạnh mẽ, bền vững cho người tiêu dùng bất chấp các biến động ngắn hạn của thị trường.\n\n2.  **Tác động tích cực từ chính sách hỗ trợ:** Các khoản tín dụng thuế (tax credits) được phần lớn các đại lý đánh giá là có tác động tích cực đến doanh số bán xe điện [doc_21]. Chính sách hỗ trợ này tiếp tục là trụ cột quan trọng thúc đẩy nhu cầu.\n\n3.  **Sự cạnh tranh và đổi mới mạnh mẽ:** Thị trường chứng kiến sự tăng trưởng doanh số mạnh mẽ ở một số nhà sản xuất lớn trong quý 3/2023, với mức tăng từ 40%–60% ở BMW, Tesla và Volkswagen [doc_36]. Sự cạnh tranh khốc liệt, được thừa nhận bởi các lãnh đạo như Elon Musk khi nói về các hãng xe Trung Quốc [doc_56], sẽ thúc đẩy cải tiến sản phẩm và giảm giá thành, mở rộng thị trường.\n\n4.  **Giá trị dài hạn và sự chấp nhận của nhà đầu tư:** Các công ty xe điện có thương hiệu mạnh như Tesla vẫn nhận được định giá cao từ nhà đầu tư [doc_68], cho thấy niềm tin vào tiềm năng dài hạn của ngành. Bên cạnh đó, chất lượng sản phẩm được chứng minh qua thực tế (một số xe Tesla đã đi được hơn 400,000 dặm với ít vấn đề [doc_24]) củng cố niềm tin của người tiêu dùng.\n\nTóm lại, các yếu tố nền tảng như lợi ích chi phí, hỗ trợ chính sách, cạnh tranh thúc đẩy đổi mới và niềm tin dài hạn vào giá trị ngành là những động lực chính cho triển vọng tăng trưởng của thị trường EV, bất chấp sự chậm lại trong ngắn hạn.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "flat",
+      "flat_grounded": true,
+      "graph_grounded": true,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: No JSON object found in LLM response. Preview: 'We are asked to judge the two answers: Flat RAG and GraphRAG. We need to return a JSON with winner, flat_grounded, graph_grounded, flat_risk, graph_advantage.  '"
+    }
+  },
+  {
+    "id": "q14",
+    "question": "Hạ tầng sạc nhanh và kỳ vọng thời gian sạc của người dùng có quan hệ gì với adoption EV?",
+    "flat_answer": "Dựa trên ngữ cảnh được cung cấp, mối quan hệ giữa hạ tầng sạc nhanh và việc áp dụng xe điện (EV adoption) được xác định là một yếu tố cản trở.\n\nCụ thể, sự thiếu hụt các trạm sạc nhanh là một trong những trở ngại chính làm chậm quá trình phổ biến xe điện [doc_40]. Khi tỷ lệ sử dụng xe điện tăng lên, các vấn đề về cơ sở hạ tầng trạm sạc nhanh đã nổi lên như một mối lo ngại [doc_40].\n\nTuy nhiên, ngữ cảnh được cung cấp không đề cập đến mối quan hệ cụ thể giữa \"kỳ vọng thời gian sạc của người dùng\" và việc áp dụng xe điện.",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, không có thông tin nào đề cập đến mối quan hệ giữa hạ tầng sạc nhanh, kỳ vọng thời gian sạc của người dùng và việc áp dụng xe điện (EV adoption).\n\nNgữ cảnh hiện có chỉ tập trung vào các chủ đề như thị phần, doanh số, giá cả của Tesla và một số hãng xe khác, tác động của ưu đãi thuế, và quan điểm chính trị, nhưng không chứa dữ liệu về cơ sở hạ tầng sạc hay thói quen/kỳ vọng sạc của người dùng. Do đó, không thể đưa ra câu trả lời dựa trên các tài liệu được cung cấp.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "flat",
+      "flat_grounded": true,
+      "graph_grounded": false,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: No JSON object found in LLM response. Preview: 'We are asked to judge grounding, specificity, and citation quality between two answers: Flat RAG and GraphRAG. We need to return a JSON with winner, flat_ground'"
+    }
+  },
+  {
+    "id": "q15",
+    "question": "Các nguồn trong corpus nói gì về vai trò của xe điện thương mại, xe buýt, xe hai bánh hoặc ba bánh?",
+    "flat_answer": "Sau khi xem xét các tài liệu được cung cấp, tôi không tìm thấy thông tin nào liên quan đến vai trò của xe điện thương mại, xe buýt, xe hai bánh hoặc ba bánh.\n\nCác tài liệu trong ngữ cảnh bao gồm:\n- [doc_50]: Một nghiên cứu về quan hệ EU-Hoa Kỳ sau Đạo luật Giảm lạm phát, nhưng nội dung văn bản không thể đọc được do lỗi mã hóa.\n- [doc_60]: Một báo cáo về triển vọng kinh tế toàn cầu và Nhật Bản, cũng trong tình trạng không thể đọc được nội dung.\n\nDo ngữ cảnh được cung cấp không chứa thông tin có thể sử dụng được về chủ đề này, tôi không thể đưa ra câu trả lời dựa trên các nguồn này.",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, thông tin về vai trò của xe điện thương mại, xe buýt, xe hai bánh hoặc ba bánh là rất hạn chế.\n\nCụ thể, ngữ cảnh chỉ đề cập đến một loại xe thương mại:\n*   **Xe tải điện thương mại:** Có một đề cập về kế hoạch ra mắt xe tải điện hạng nặng Tesla Semi, dự kiến vào cuối năm 2025 hoặc 2026 [doc_61].\n\nĐối với các loại xe buýt, xe hai bánh hoặc ba bánh, ngữ cảnh được cung cấp không chứa bất kỳ thông tin nào.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "graph",
+      "flat_grounded": false,
+      "graph_grounded": true,
+      "flat_risk": "Missed doc_61 with relevant info, claimed no info found",
+      "graph_advantage": "Identified specific mention of Tesla Semi electric truck from doc_61"
+    }
+  },
+  {
+    "id": "q16",
+    "question": "Những con số benchmark quan trọng nhất về thị phần, doanh số, hạ tầng sạc hoặc pin trong corpus là gì?",
+    "flat_answer": "Corpus được cung cấp không chứa bất kỳ con số benchmark cụ thể nào về thị phần, doanh số, hạ tầng sạc hoặc pin. Các tài liệu liên quan đến xe điện (doc_36, doc_1) chỉ có tiêu đề và thông báo cookie, trong khi các tài liệu khác (doc_50, doc_60) bị mã hóa hoặc không hiển thị được nội dung số liệu. Do đó, không thể trích xuất được con số quan trọng nào từ ngữ cảnh này.",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, những con số benchmark quan trọng nhất về thị phần và doanh số là:\n\n**Về Thị phần:**\n*   **Thị phần của Tesla tại Mỹ:** Đã giảm từ **61.7%** trong quý 1 năm 2023 xuống còn **51.3%** trong quý 1 năm 2024 [doc_2]. Một nguồn khác cho biết thị phần năm 2023 là **55%**, giảm so với mức **65%** của năm 2022 [doc_30]. Quý 4 năm 2023, con số này là **50.9%** [doc_64].\n*   **Thị phần của Tesla tại Trung Quốc:** Chỉ chiếm **6.7%** [doc_61].\n*   **Thị phần xe điện trên tổng doanh số xe mới tại Mỹ:** Đạt **7.3%** trong quý 1 năm 2024 [doc_2].\n\n**Về Doanh số:**\n*   **Doanh số của Tesla tại Mỹ:** Giảm **13.3%** so với cùng kỳ năm trước trong quý 1 năm 2024 [doc_2].\n*   **Tổng số xe Tesla giao toàn cầu:** Đạt **1.8 triệu** chiếc trong năm 2023 [doc_61].\n\n**Lưu ý quan trọng:** Trong ngữ cảnh được cung cấp **không hề có** bất kỳ số liệu benchmark cụ thể nào liên quan đến **hạ tầng sạc hoặc pin**.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "graph",
+      "flat_grounded": false,
+      "graph_grounded": true,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: Malformed JSON from LLM. Preview: '{   \"winner\": \"graph\",'"
+    }
+  },
+  {
+    "id": "q17",
+    "question": "So sánh các tín hiệu tích cực và tiêu cực về sentiment của ngành EV tại Mỹ.",
+    "flat_answer": "Dựa trên ngữ cảnh được cung cấp, các tín hiệu về sentiment của ngành EV tại Mỹ có thể được so sánh như sau:\n\n**Tín hiệu tích cực:**\n- Sentiment về EV đã có sự cải thiện nhẹ trong quý 3 [doc_34].\n- Ngày càng nhiều đại lý báo cáo rằng các ưu đãi EV do chính phủ hỗ trợ đang có tác động tích cực đến doanh số bán hàng [doc_34].\n\n**Tín hiệu tiêu cực:**\n- Mức sentiment này vẫn thấp hơn so với cùng kỳ năm ngoái [doc_34].\n- Kỳ vọng về doanh số bán EV trong tương lai đã giảm [doc_34].\n- Các yếu tố như điều kiện kinh tế, lãi suất cao và sự bất ổn chính trị là những rào cản hàng đầu kìm hãm hiệu suất của các đại lý [doc_34].\n\nCác tài liệu khác ([doc_66], [doc_43], [doc_23]) không chứa thông tin liên quan trực tiếp đến sentiment của ngành EV tại Mỹ.",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, dưới đây là so sánh các tín hiệu tích cực và tiêu cực về sentiment của ngành xe điện (EV) tại Mỹ.\n\n### Tín hiệu Tích cực\n\n*   **Tác động từ chính sách hỗ trợ:** Đa số các đại lý nhận thấy các khoản tín dụng thuế có tác động tích cực đến doanh số bán xe điện [doc_21].\n*   **Lợi ích kinh tế cho người dùng:** Xe điện có thể giúp giảm tới hai phần ba chi phí nhiên liệu, một yếu tố hấp dẫn người tiêu dùng [doc_38].\n*   **Tăng trưởng doanh số ở một số phân khúc:** Doanh số quý 3 năm 2023 của một số hãng lớn như BMW, Tesla và Volkswagen đã tăng từ 40% đến 60% so với cùng kỳ năm trước [doc_36].\n*   **Độ bền sản phẩm:** Một số xe Tesla đã di chuyển hơn 400.000 dặm với ít hoặc không có vấn đề gì, củng cố niềm tin vào chất lượng xe điện [doc_24].\n*   **Thay đổi quan điểm chính trị:** Cựu Tổng thống Donald Trump, người từng phản đối gay gắt xe điện, đã có lập trường mềm mỏng hơn sau khi nhận được sự ủng hộ từ CEO Tesla, Elon Musk [doc_38].\n\n### Tín hiệu Tiêu cực\n\n*   **Suy giảm thị phần và doanh số của hãng dẫn đầu:** Tesla, hãng chiếm hơn một nửa doanh số EV tại Mỹ, ghi nhận doanh số giảm 13.3% so với cùng kỳ năm trước trong quý 1 năm 2024 [doc_2]. Thị phần của hãng cũng giảm từ 61.7% (Q1 2023) xuống còn 51.3% (Q1 2024) [doc_2], và từ 65% (2022) xuống 55% (2023) [doc_30].\n*   **Định giá và hiệu suất tài chính đi xuống:** Cổ phiếu Tesla năm 2023 thấp hơn trung bình 15% so với giai đoạn 2021-2022 [doc_15]. Lợi nhuận của hãng đã giảm mạnh hơn 40% so với cùng kỳ năm",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "graph",
+      "flat_grounded": true,
+      "graph_grounded": true,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: No JSON object found in LLM response. Preview: 'We are asked to compare the two answers (flat RAG and GraphRAG) and judge grounding, specificity, and citation quality. Then output a JSON with winner, flat_gro'"
+    }
+  },
+  {
+    "id": "q18",
+    "question": "Các công ty, tổ chức nghiên cứu hoặc nguồn dữ liệu nào xuất hiện nhiều trong corpus và chúng liên hệ với nhận định nào?",
+    "flat_answer": "Trong corpus được cung cấp, tổ chức nghiên cứu xuất hiện nhiều nhất là **Deloitte**, với ba tài liệu có nội dung giống hệt nhau ([doc_69], [doc_28], [doc_9]). Các tài liệu này đều liên quan đến nhận định về xu hướng xe điện (Electric vehicle trends) và giới thiệu đội ngũ ô tô toàn cầu của Deloitte chuyên giúp các công ty thực thi các ý tưởng đổi mới.\n\nCác tổ chức/nguồn dữ liệu khác xuất hiện ít hơn:\n- **Capital Group** xuất hiện trong [doc_58] với tư cách là nguồn chính, cùng các nguồn dữ liệu như China Statistics Bureau, MSCI, Standard & Poor's. Tài liệu này liên quan đến nhận định về tác động tiềm tàng của chiến thắng của Trump đối với ngân hàng, ô tô và hàng xa xỉ.\n- **Nghị viện Châu Âu** (europarl.europa.eu) xuất hiện trong [doc_50] với một nghiên cứu về quan hệ EU-Hoa Kỳ sau Đạo luật Giảm lạm phát, dù nội dung bị mã hóa không đọc được.\n\nNhư vậy, Deloitte là tổ chức có tần suất xuất hiện cao nhất, gắn với chủ đề xu hướng xe điện.",
+    "graph_answer": "Dựa trên corpus được cung cấp, **Tesla** là công ty xuất hiện nhiều nhất, liên hệ với nhiều nhận định về hiệu suất kinh doanh, thị phần và tài chính. Các thực thể khác cũng được đề cập nhưng với tần suất thấp hơn.\n\n### 1. Tesla (Xuất hiện nhiều nhất)\nCác nhận định liên quan đến Tesla bao gồm:\n*   **Sụt giảm doanh số và thị phần:** Doanh số tại Mỹ giảm 13.3% so với cùng kỳ năm trước [doc_2]. Thị phần xe điện tại Mỹ giảm từ 61.7% (Q1 2023) xuống 51.3% (Q1 2024) [doc_2], từ 65% (2022) xuống 55% (2023) [doc_30], và chỉ còn 6.7% tại Trung Quốc [doc_61].\n*   **Giá bán và định giá:** Giá giao dịch trung bình giảm 13.5% xuống còn $52,315 [doc_2]. Tỷ lệ giá trên doanh thu (P/S) giảm từ 10 xuống 6 [doc_26]. Dù vậy, nhà đầu tư vẫn trả giá cao cho thương hiệu xe điện mạnh như Tesla [doc_68].\n*   **Tài chính và Sản xuất:** Lợi nhuận giảm hơn 40% so với cùng kỳ năm trước vào Q2 2024 [doc_61]. Công ty đã nhận 3.1 tỷ USD tín dụng thuế [doc_24] và xuất khẩu chiếc xe thứ một triệu từ nhà máy Trung Quốc [doc_56].\n*   **Lịch sử và Kế hoạch:** Được thành lập năm 2003, Elon Musk làm CEO từ 2008 [doc_61]. Có kế hoạch ra mắt robo-taxi vào tháng 10/2024 và xe tải Semi vào cuối 2025 hoặc 2026 [doc_61].\n\n### 2. Các thực thể khác\n*   **Elon Musk:** Xuất hiện với tư cách CEO Tesla, người đã lên tiếng thừa nhận các hãng xe Trung Quốc là \"có tính cạnh tranh nhất thế giới\" [doc_56], từng có bình luận bác bỏ về BYD [doc_64], và ủng hộ Donald Trump [doc_38].\n*   **BYD:** Được nhận định là đã vượt qua Tesla để trở thành hãng bán xe điện hàng đầu trong quý cuối năm 2024 [doc_64].\n*   **Donald Trump:** Liên hệ với nhận định phản đối xe điện, nhưng sau đó đã làm dịu lập trường để đổi lấy sự ủng hộ từ Elon Musk [doc_38].\n*   **BMW và Volkswagen:** Được đề cập có mức tăng trưởng doanh số quý 3 năm 2023 từ 40%–60% [doc_36].",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "graph",
+      "flat_grounded": true,
+      "graph_grounded": true,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: No JSON object found in LLM response. Preview: 'We are asked to judge grounding, specificity, and citation quality between Flat RAG and GraphRAG answers. The question: \"Các công ty, tổ chức nghiên cứu hoặc ng'"
+    }
+  },
+  {
+    "id": "q19",
+    "question": "GraphRAG có thể trả lời tốt hơn Flat RAG ở câu hỏi multi-hop nào trong bộ corpus này, và vì sao?",
+    "flat_answer": "Dựa trên ngữ cảnh được cung cấp, tôi không thể trả lời câu hỏi này.\n\n**Lý do:**\nTất cả các tài liệu trong ngữ cảnh đều chứa nội dung bị hỏng hoặc không thể đọc được (các ký tự nhiễu, không phải văn bản thuần túy). Cụ thể:\n- [doc_60] và [doc_50] chỉ hiển thị các chuỗi ký tự mã hóa hỏng, không có thông tin ngữ nghĩa.\n- [doc_31] chỉ có một dòng tiêu đề và không chứa nội dung bài viết.\n\nDo không có bất kỳ thông tin hữu ích nào về GraphRAG, Flat RAG, hay các câu hỏi multi-hop trong bộ corpus, tôi không thể xác định được câu hỏi nào được trả lời tốt hơn hay đưa ra lý do. Ngữ cảnh không đủ để thực hiện yêu cầu.",
+    "graph_answer": "Dựa trên ngữ cảnh được cung cấp, GraphRAG có thể trả lời tốt hơn Flat RAG cho câu hỏi multi-hop sau:\n\n**Câu hỏi:** \"Tại sao nhận xét trước đây của Elon Musk về BYD lại trở nên mỉa mai khi xét đến diễn biến thị trường sau đó?\"\n\n**Lý do:**\nĐể trả lời câu hỏi này, hệ thống cần kết nối thông tin từ ba tài liệu riêng biệt, tạo thành một chuỗi suy luận nhiều bước (multi-hop):\n\n1.  **Bước 1 (Thông tin nền):** Elon Musk đã có một bình luận gạt bỏ đối thủ BYD. [doc_64]\n2.  **Bước 2 (Diễn biến liên quan):** Sau đó, chính Elon Musk lại thừa nhận các nhà sản xuất ô tô Trung Quốc là \"có khả năng cạnh tranh nhất thế giới\". [doc_56]\n3.  **Bước 3 (Kết quả cuối cùng):** BYD đã vượt qua Tesla để trở thành hãng xe điện bán chạy nhất trong quý cuối cùng của năm 2024. [doc_64]\n\n**Vì sao GraphRAG tốt hơn:**\nGraphRAG hoạt động dựa trên cấu trúc đồ thị với các thực thể (như \"Elon Musk\", \"BYD\", \"Tesla\") và mối quan hệ (như `MADE_DISMISSIVE_COMMENT_ABOUT`, `ACKNOWLEDGED`, `SURPASSED`). Nó có thể dễ dàng truy xuất và kết nối các mối quan hệ này qua các tài liệu khác nhau để tổng hợp câu trả lời. Ngược lại, Flat RAG chỉ tìm kiếm dựa trên sự tương đồng văn bản, rất khó để tự động liên kết một \"bình luận chế giễu\" trong quá khứ với một \"sự thừa nhận\" và một sự kiện \"vượt mặt\" trong tương lai để tạo thành một câu trả lời mạch lạc và có chiều sâu.",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "graph",
+      "flat_grounded": true,
+      "graph_grounded": true,
+      "flat_risk": "Heuristic judge used because LLM judge did not return JSON.",
+      "graph_advantage": "Compared citation count, answer coverage, and overlap with question terms.",
+      "judge_warning": "LLM judge JSON parse failed: No JSON object found in LLM response. Preview: 'We are asked to judge the two answers: Flat RAG and GraphRAG. The question is: \"GraphRAG có thể trả lời tốt hơn Flat RAG ở câu hỏi multi-hop nào trong bộ corpus'"
+    }
+  },
+  {
+    "id": "q20",
+    "question": "Tóm tắt bức tranh tổng thể của sector xe điện Mỹ dựa trên các quan hệ giữa doanh số, giá, ưu đãi, hạ tầng và hành vi người tiêu dùng.",
+    "flat_answer": "Không thể tóm tắt bức tranh tổng thể của sector xe điện Mỹ dựa trên các tài liệu được cung cấp. Các tài liệu [doc_11], [doc_60], [doc_57] và [doc_53] đều không chứa thông tin về doanh số, giá, ưu đãi, hạ tầng hay hành vi người tiêu dùng liên quan đến xe điện tại Mỹ.",
+    "graph_answer": "Dựa trên các mối quan hệ được cung cấp trong ngữ cảnh, bức tranh tổng thể của sector xe điện Mỹ hiện lên với những điểm chính sau:\n\n**1. Tăng trưởng chững lại và cạnh tranh gia tăng:**\nThị phần xe điện trên tổng doanh số bán xe mới tại Mỹ đã giảm xuống còn 7.3% trong quý 1 năm 2024 [doc_2]. Tesla, dù vẫn dẫn đầu với hơn một nửa doanh số [doc_35], đang chứng kiến sự sụt giảm thị phần liên tục từ 65% (2022) xuống 55% (2023) và còn 51.3% (Q1 2024) [doc_30][doc_2]. Sự trỗi dậy của các đối thủ cạnh tranh như BYD, hãng đã vượt qua Tesla để trở thành hãng bán xe điện hàng đầu [doc_64], cùng với mức tăng trưởng doanh số mạnh mẽ từ các hãng xe truyền thống như BMW và Volkswagen (40-60% trong quý 3/2023) [doc_36] cho thấy áp lực cạnh tranh ngày càng lớn.\n\n**2. Cuộc chiến giá cả và áp lực lợi nhuận:**\nĐể đối phó với cạnh tranh, Tesla đã liên tục giảm giá. Giá giao dịch trung bình của hãng đã giảm 13.5% so với cùng kỳ năm trước, xuống còn 52,315 USD trong quý 1 năm 2024 [doc_2], và thậm chí chạm mức 50,051 USD vào tháng 12 năm 2023 [doc_30]. Chiến lược này đã ảnh hưởng trực tiếp đến lợi nhuận khi lợi nhuận của Tesla lao dốc hơn 40% so với cùng kỳ trong quý 2 năm 2024 [doc_61], kéo theo giá cổ phiếu sụt giảm và định giá công ty xuống thấp [doc_15][doc_35].\n\n**3. Vai trò của ưu đãi và chính sách:**\nCác khoản tín dụng thuế đóng vai trò tích cực trong việc thúc đẩy doanh số xe điện, theo quan điểm của phần lớn các đại lý [doc_21]. Tesla cũng được hưởng lợi lớn từ chính sách này khi đã nhận được 3.1 tỷ USD tiền tín dụng thuế [doc_24]. Tuy nhiên, môi trường chính sách có sự bất ổn khi các quan điểm chính trị đối lập, như của ông Donald Trump, có thể tác động đến tương lai của ngành, dù lập tr",
+    "graph_seed_nodes": [
+      {
+        "node_id": "tesla",
+        "label": "Tesla",
+        "score": 6.0
+      },
+      {
+        "node_id": "q1_2024",
+        "label": "Q1 2024",
+        "score": 6.0
+      },
+      {
+        "node_id": "ev_sales",
+        "label": "EV sales",
+        "score": 6.0
+      },
+      {
+        "node_id": "in_q1_2024",
+        "label": "in Q1 2024",
+        "score": 4.5
+      },
+      {
+        "node_id": "ev",
+        "label": "EV",
+        "score": 4.5
+      },
+      {
+        "node_id": "7_3_in_q1_2024",
+        "label": "7.3% in Q1 2024",
+        "score": 4.5
+      }
+    ],
+    "judge": {
+      "winner": "graph",
+      "flat_grounded": false,
+      "graph_grounded": true,
+      "flat_risk": "Incorrectly claims no relevant information exists, missing key documents.",
+      "graph_advantage": "Provides a detailed, specific summary with well-cited data points from multiple documents."
+    }
+  }
+]

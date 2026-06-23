@@ -1,0 +1,54 @@
+Query: Region-specific sentiment analysis of US electric vehicle industry
+Title: Total Energy Monthly Data - U.S. Energy Information Administration ...
+Link: https://www.eia.gov/totalenergy/data/monthly/
+Snippet: 2.1bEnergy consumption: Transportation sector, total end-use sectors, and electric power sector ... 7.6Electricity end use and electric vehicle use; Available ...
+
+Full Content:
+Menu
+Crude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural gas liquids.
+Exploration and reserves, storage, imports and exports, production, prices, sales.
+Sales, revenue and prices, power plants, fuel use, stocks, generation, trade, demand & emissions.
+								
+Energy use in homes, commercial buildings, manufacturing, and transportation.
+Reserves, production, prices, employment and productivity, distribution, stocks, imports and exports.
+Includes hydropower, solar, wind, geothermal, biomass and ethanol.
+Uranium fuel, nuclear reactors, generation, spent fuel.
+Comprehensive data summaries, comparisons, analysis, and projections integrated across all energy sources.
+Monthly and yearly energy forecasts, analysis of energy topics, financial analysis, congressional reports.
+								
+Financial market analysis and financial data for major energy companies.
+Greenhouse gas data, voluntary reporting, electric power plant emissions.
+Maps, tools, and resources related to energy disruptions and infrastructure.
+State energy information, including overviews, rankings, data, and analyses.
+Maps by energy source and topic, includes forecast maps.
+International energy information, including overviews, rankings, data, and analyses.
+Regional energy information including dashboards, maps, data, and analyses.
+Tools to customize searches, view specific data sets, study detailed documentation, and access time-series data.
+EIA's free and open data available as API, Excel add-in, bulk files, and widgets
+Come test out some of the products still in development and let us know what you think!
+EIA's open source code, available on GitHub.
+Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information.
+Sign up for email subcriptions to receive messages about specific EIA products
+Subscribe to feeds for updates on EIA products including Today in Energy and What's New.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Short, timely articles with graphics on energy, facts, issues, and trends.
+Lesson plans, science fair experiments, field trips, teacher guide, and career corner.
+Reports requested by congress or otherwise deemed important.
+A publication of recent and historical U.S. energy statistics. This publication includes total energy production, consumption, stocks, and trade; energy prices; overviews of petroleum, natural gas, coal, electricity, nuclear energy, renewable energy, and carbon dioxide emissions; and data unit conversions values.
+Each month, most MER tables and figures present data for a new month. These data are usually preliminary (and sometimes estimated or forecasted) and likely to be revised the following month. The first dissemination of most annual data is also preliminary. It is often based on monthly estimates and is likely to be revised later that year after final data are published from sources, according to source data revision policies and publication schedules. In addition, EIA may revise historical data when a major revision in a source publication is needed, when new data sources become available, or when estimation methodologies are improved. A record of current and historical changes to MER data is available on the What's New in the Monthly Energy Review—Content Changes webpage.

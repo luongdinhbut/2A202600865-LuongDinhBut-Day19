@@ -1,0 +1,98 @@
+Query: Investor sentiment towards electric vehicle sector in the US
+Title: Charging Forward: Exploring Opportunities in Electric Vehicle ...
+Link: https://kraneshares.com/charging-forward-exploring-opportunities-in-electric-vehicle-stocks-amidst-market-fluctuations/
+Snippet: Feb 15, 2024 ... Looking ahead to 2024, global EV sales are projected to increase by 20%1, with China expected to continue to dominate the market. Despite ...
+
+Full Content:
+Krane Funds Advisors, LLC is the investment manager for KraneShares ETFs. KraneShares offers innovative investment solutions tailored to three key pillars: China, Climate, and Alternatives. Our team is determined to provide industry-leading, differentiated, and high-conviction investment strategies that offer access to key market trends. Our mission is to empower investors with the knowledge and tools necessary to capture the importance of these themes as an essential element of a well-designed investment portfolio.
+											
+January 22, 2025 – Talk Your Book: Moneyball Meets Private Equity
+January 14, 2025 – CNBC Worldwide Exchange: Derek Yan on Palantir’s Future
+January 13, 2025 – KraneShares To Extend Outcome Period For Buffer Strategies KPRO & KBUF On Strong China Internet Sector Momentum
+December 31, 2024 – KraneShares Announces Reverse Split and Distribution Policy Change for China Internet and Covered Call Strategy ETF (KLIP)
+ View More
+Our semi-monthly topical research reports. Subscribe to our weekly mailing list for more.
+January 23, 2025 – Carbon Markets in 2025: Top 5 Developments to Watch
+January 23, 2025 – KMLM: Interest Rate Shifts and Election Impacts
+January 22, 2025 – The Outlook for Private Equity in 2025
+January 21, 2025 – Could China Stocks Be The Ultimate Trump Trade?
+ View More
+Information about KraneShares ETFs, China's markets and culture, and general investing resources.
+ View More
+Our market update is a collaboration between the KraneShares internal research department, our local Chinese partners, and select China thought leaders from around the world. Our goal is to deliver a differentiated perspective on Chinese capital markets, business, government, and culture.
+ +1 (855) 8KRANE8
+ [email protected]
+280 Park Avenue, 32nd FloorNew York, NY 10017
+ +1 (212) 933-0393 
+1 Embarcadero Center, Suite 2350San Francisco, CA 94111
+181 Queen Victoria Street London EC4V 4EG
+ +44 203 955 5230 
+ [email protected]
+ [email protected]
+ [email protected]
+Despite global EV sales growing 40% last year, performance in related equities dragged.2 The disconnect between sales growth and stock performance stems partly from more conservative growth estimates. A consensus of reports estimates EV sales to grow by 20% in 2024, which is still notable growth compared to established global industries.1
+Although growth in the EV industry may normalize in the coming years, we believe the long-term picture remains the same. The world still needs to replace 1.3 billion internal combustion engine vehicles (ICE) with EVs by 2040, and we have only 40 million EVs on the road today.3 In 2023, we were once again reminded that structural growth does not always form a straight line.
+We have seen this story unfold before with many cornerstone technology companies, including Google, Facebook, Netflix, and now Tesla. While sales or subscriber growth may slow for a quarter or two, the long-term transformation story remains intact. After all, we do not see anybody going back to Blockbuster to rent movies. Despite challenges, valuations and positioning are at multi-year lows, EV prices are declining compared to ICE, and technology and infrastructure are improving rapidly.
+Pure EV companies such as Tesla, Li Auto, Xpeng, and Rivian proved their ability to compete with legacy automotive companies in 2023. Traditional ICE car companies like Ford and GM, who have introduced EVs to their existing business model, failed to show any considerable improvements last year across the board.
+While fundamental growth within pure EV companies was strong last year, raw material and battery suppliers detracted due to lower demand and excess capacity in electrification metals. After record investment flowed into mining projects in 2022, the sub-industry saw an influx of supply that outpaced overall EV demand.4 We believe this imbalance will correct itself as EV companies accelerate car production to meet global demand.
+On a country level, China-based EV makers sold off the most due to negative investor sentiment following two challenging years of COVID-19 closures and regulations. Despite it all, EV sales grew by 40%, and EV-related industrial production growth surpassed 30%.5 BYD, China’s leading EV maker, became the top global EV seller in Q4 of 2023, surpassing Tesla.6 It is unsurprising that BYD, like Alibaba, Tencent, JD.com, LONGi, and other pioneering Chinese companies, is taking the lead in another future industry: the electrification of transport.
+In 2024, we expect global EV sales to grow by 20% to 16.5 million units.7 Most of the sales are expected to be in China, which is estimated to account for about 10 million of the EVs sold globally.8 The US is expected to sell nearly 2 million EVs, representing more modest growth over 2023.9 On the other hand, European sales growth is expected to be in the single digits for the year, with around 3.8 million units.10
+Excitement in the US over EVs began to weaken following the revision of the Inflation Reduction Act (IRA) to limit the number of brands that qualify for the full $7,500 credit for EV purchases. However, the IRA successfully ignited a major investment cycle not seen in many years, especially in battery factories. Furthermore, the upcoming US presidential elections could present more uncertainty for clean energy support in the coming years.
+We believe EV stock valuations look very attractive, especially on a price-to-sales basis after an unremarkable start to 2024. Many of these companies are trading at a price-to-sales (P/S) level between 1 and 2.11 BYD’s P/S is 0.9.12 Meanwhile, Tesla's P/S has declined from 10 to 6 after a recent earnings miss.13
+Also, positioning in the sector is the lowest it has been in many years, and sentiment is bearish. Any signs of improvement in EV sales, China’s macroeconomics, or rate cuts in the US could change sentiment quickly. Given the current environment, we favor companies with lower price tags over luxury EVs, which, in the long term, will contribute the most to closing the gap between EVs and ICE vehicles.
+On the battery side, pack and cell prices resumed their downward direction in 2023 after rising in 2022 for the first time in at least ten years due to high metal prices. The Cell price reached an all-time low with a weighted volume average of $107/kWh.14 Pack prices hit $32/kWh.15 This price includes inputs from all electrification segments, including Plug-In Hybrids (PHEV), Battery EVs (BEV), Stationary, E-Busses, etc. BEV battery prices in 2023 were observed at $128/KWH, while PHEV battery prices were $343/kWh.16
+Prices are expected to ease further in 2024, bringing us closer to ICE parity. Absent a major technology improvement in batteries, ICE parity is expected to be reached for specific models, such as lightweight vehicles, in certain countries, such as China, in 2025. The rest are expected to follow in the following years. Cost parity with ICE vehicles is expected to unleash mass adoption for EVs.
+Battery company stocks suffered in 2023 despite significantly lower metal prices due to lower-than-expected demand for EVs. Many companies, including CATL and Samsung SDI, were operating below capacity and delivered revenues and earnings that were below Wall Street's expectations. Lower metal prices usually bode well for battery makers as it cheapens their raw materials. However, due to lower demand for EVs, many battery companies had to offer increasingly competitive contracts to automakers to lock in demand in the short term.
+According to Bloomberg New Energy Finance's (BNEF) yearly Lithium Price Survey released last November, Lithium-Ion Phosphate (LFP) share versus Nickel-based chemistries continues to rise, reaching an estimated 46% of the total market share. LFP is becoming more popular for battery EVs, with many North American manufacturers like Rivian and Ford switching to LFP this year. LFP currently has the cheapest battery price in the industry, at $130/kWh.17 The lower price of LFP has been supported by the large decline in Lithium prices seen in 2023 after record new capacity came online.
+Some potential risks may emerge in 2024. The most anticipated event this year is the US election. A Republican victory could mean repealing some of the subsidies in the Inflation Reduction Act (IRA). However, given the breadth of states, including red states, that benefited from the IRA in terms of jobs and investments over the past year, we believe the impact may not be as large as expected. Examples of this include Rivian and Hyundai building new EV factories in Georgia, Fisker taking over the abandoned auto plant in Ohio, and Ford and GM planning to build battery factories in Michigan and other states. Other risks include a potentially less robust consumer recovery in China and higher rates for longer periods. However, we believe many of these factors are already priced in.
+We believe bearishness on EV sales in the short term may be excessive because many factors could quickly reverse investor sentiment. Some of these factors include better-than-expected sales in Q2 and Q3, potential rate cuts in the US and Europe, a potential technological advancement, especially in batteries or autonomous driving, an improvement in consumer sentiment in China, more subsidies, and policies to encourage EV buying, especially in the EU, and the emergence of lower-priced EVs.
+Investors can gain exposure to companies engaged in the production of electric vehicles and/or their components through the KraneShares Electric Vehicles & Future Mobility Index ETF (Ticker: KARS).
+KARS is benchmarked to the Bloomberg Electric Vehicles Index, which provides exposure to companies engaged in electric vehicle production, autonomous driving, shared mobility, lithium and/or copper production, lithium-ion/lead acid batteries, hydrogen fuel cell manufacturing, and electric infrastructure businesses.
+For KARS standard performance, top 10 holdings, risks, and other fund information, please click here.
+This should not be regarded as investment advice or a recommendation of specific securities. Holdings are subject to change. Securities mentioned do not make up the entire portfolio and, in the aggregate, may represent a small percentage of the fund.
+Definitions:
+Price-to-sales ratio: a valuation ratio that compares a company’s stock price to its revenues. It is an indicator of the value that financial markets have placed on each dollar of a company’s sales or revenues.
+Free Cash Flow LT: The Long Term Average Free Cash Flow to Assets, or FCF LT / Assets, is a measure of how effectively a company generates surplus Cash Flow from Revenues. It is the Average Free Cash Flow over the last five years, divided by Total Assets.
+Sales Growth: Sales growth is the increase in sales of a product or service over time. It measures how well a business performs in terms of its revenue from sales. Sales growth can be measured by comparing the year-over-year, quarter-over-quarter, or month-over-month sales.
+Forward P/E: The forward P/E ratio (or forward price-to-earnings ratio) divides the current share price of a company by the estimated future (“forward”) earnings per share (EPS) of that company. For valuation purposes, a forward P/E ratio is typically considered more relevant than a historical P/E ratio.
+Citations:
+
+		* Projection from Bloomberg New Energy Finance as of 12/31/2022. Retrieved 6/30/2024.
+		** Data from Canalys and Statista as of 12/31/2022. Retrieved 6/30/2024.
+		*** Statista. “Electric vehicles - global market size 2021 & 2027.” Statista. 25 July 2022. Retrieved 6/30/2024.
+		† Data from IEA as of 12/31/2022. Retrieved 6/30/2024.
+
+View All 
+©2025 Krane Funds Advisors, LLC280 Park Avenue, 32nd Floor, New York, NY 10017
+Follow Us:
+Carefully consider the Funds’ investment objectives, risk factors, charges and expenses before investing. This and additional information can be found in the Funds’ full and summary prospectus, which may be obtained by visiting:
+
+      
+        www.kraneshares.com.
+
+      Read the prospectus carefully before investing.
+Risk Disclosures:
+Investing involves risk, including possible loss of principal. There can be no assurance that a Fund will achieve its stated objectives. Indices are unmanaged and do not include the effect of fees. One cannot invest directly in an index.
+This information should not be relied upon as research, investment advice, or a recommendation regarding any products, strategies, or any security in particular. This material is strictly for illustrative, educational, or informational purposes and is subject to change. Certain content represents an assessment of the market environment at a specific time and is not intended to be a forecast of future events or a guarantee of future results; material is as of the dates noted and is subject to change without notice.
+ A-Shares are issued by companies in mainland China and traded on local exchanges. They are available to domestic and certain foreign investors, including QFIs and those participating in Stock Connect Programs like Shanghai-Hong Kong and Shenzhen-Hong Kong. Foreign investments in A-Shares face various regulations and restrictions, including limits on asset repatriation. A-Shares may experience frequent trading halts and illiquidity, which can lead to volatility in KARS’s share price and increased trading halt risks. The Chinese economy is an emerging market, vulnerable to domestic and regional economic and political changes, often showing more volatility than developed markets. Companies face risks from potential government interventions, and the export-driven economy is sensitive to downturns in key trading partners, impacting KARS. U.S.-China tensions raise concerns over tariffs and trade restrictions, which could harm China’s exports and KARS. China’s regulatory standards are less stringent than in the U.S., resulting in limited information about issuers. Tax laws are unclear and subject to change, potentially impacting KARS and leading to unexpected liabilities for foreign investors. Fluctuations in currency of foreign countries may have an adverse effect to domestic currency values.
+KARS may invest in derivatives, which are often more volatile than other investments and may magnify KARS’s gains or losses. A derivative (i.e., futures/forward contracts, swaps, and options) is a contract that derives its value from the performance of an underlying asset. The primary risk of derivatives is that changes in the asset’s market value and the derivative may not be proportionate, and some derivatives can have the potential for unlimited losses. Derivatives are also subject to liquidity and counterparty risk. KARS is subject to liquidity risk, meaning that certain investments may become difficult to purchase or sell at a reasonable time and price. If a transaction for these securities is large, it may not be possible to initiate, which may cause KARS to suffer losses. Counterparty risk is the risk of loss in the event that the counterparty to an agreement fails to make required payments or otherwise comply with the terms of the derivative.
+
+ Narrowly focused investments typically exhibit higher volatility. KARS’s assets are expected to be concentrated in a sector, industry, market, or group of concentrations to the extent that the Underlying Index has such concentrations. The securities or futures in that concentration could react similarly to market developments. Thus, KARS is subject to loss due to adverse occurrences that affect that concentration.
+ In addition to the normal risks associated with investing, investments in smaller companies typically exhibit higher volatility.
+
+
+ETF shares are bought and sold on an exchange at market price (not NAV) and are not individually redeemed from the Fund. However, shares may be redeemed at NAV directly by certain authorized broker-dealers (Authorized Participants) in very large creation/redemption units. The returns shown do not represent the returns you would receive if you traded shares at other times. Shares may trade at a premium or discount to their NAV in the secondary market. Brokerage commissions will reduce returns. Beginning 12/23/2020, market price returns are based on the official closing price of an ETF share or, if the official closing price isn't available, the midpoint between the national best bid and national best offer ("NBBO") as of the time the ETF calculates the current NAV per share. Prior to that date, market price returns were based on the midpoint between the Bid and Ask price. NAVs are calculated using prices as of 4:00 PM Eastern Time.
+The KraneShares ETFs and KFA Funds ETFs are distributed by SEI Investments Distribution Company (SIDCO), 1 Freedom Valley Drive, Oaks, PA 19456, which is not affiliated with Krane Funds Advisors, LLC, the Investment Adviser for the Funds, or any sub-advisers for the Funds.
+Privacy Policy
+Whistleblower Policy
+Form ADV
+N-PX Voting Table
+Fund Filings & Tax Supplements
+Hyperlinks on this website are provided as a convenience and we disclaim any responsibility for information, services or products found on the websites linked hereto.
+You are now leaving KraneShares.com. Hyperlinks on these websites are provided as a convenience and we disclaim any responsibility for information, services or products found on the websites linked hereto.
+			    
+	    For questions on how to invest in KraneShares ETFs, please refer to ETF Trading 101.
+	  	
+This website uses cookies to help us enhance your browsing experience. By using this website you consent to our use of these cookies. You can customize your preferences by clicking “Cookie Preferences” below. To find out more about how we use cookies and how to manage them, please see our  Terms & Conditions and Privacy Policy.
+Accept
+Cookie Preferences

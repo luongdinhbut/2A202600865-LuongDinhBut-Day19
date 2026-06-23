@@ -1,0 +1,298 @@
+Query: Financial performance of US electric vehicle companies
+Title: Electric vehicles - IEA
+Link: https://www.iea.org/energy-system/transport/electric-vehicles
+Snippet: Few areas in the world of clean energy are as dynamic as the electric car market. Recent years have seen healthy growth in sales together with improved ...
+
+Full Content:
+Fossil Fuels
+Renewables
+Electricity
+Low-Emissions Fuels
+Transport
+Industry
+Buildings
+Energy Efficiency and Demand
+Carbon Capture, Utilisation and Storage
+Decarbonisation Enablers
+Energy Security
+Artificial Intelligence
+Energy and Gender
+Climate Change
+Access and Affordability
+COP28: Tracking the Energy Outcomes
+Net Zero Emissions
+Russia's War on Ukraine
+The IEA's 50th Anniversary
+Investment
+Data explorers
+Understand and manipulate data with easy to use explorers and trackers
+Data sets
+Free and paid data sets from across the energy system available for download
+Policies database
+Past, existing or planned government policies and measures
+Chart Library
+Access every chart published across all IEA reports and analysis
+
+                        Fuel report   — January 2025                     
+
+                        Flagship report   — October 2024                     
+
+                        Flagship report   — October 2024                     
+2023 Update
+
+                        Flagship report   — September 2023                     
+Sign In
+You are connecting via IP recognition from  .
+If you wish to proceed, click on Connect.
+      If you prefer to log into your personal account, please sign in below.
+Create a free IEA account to download our reports or subcribe to a paid service.
+
+                The IEA has discontinued providing data in the Beyond 2020 format (IVT files and through WDS). Data is now available through the .Stat Data Explorer, which also allows users to export data in Excel and CSV formats.
+            
+ Few areas in the world of clean energy are as dynamic as the electric car market. Recent years have seen healthy growth in sales together with improved range, wider model availability and increased performance. We estimate that more than one in five new cars sold in 2024 will be electric.
+ Electric vehicles are the key technology to decarbonise road transport, a sector that accounts for around one-sixth of global emissions. Ambitious policies continue to be critical to growth in electric vehicle markets worldwide.
+ If the EV sales growth experienced in recent years is sustained, CO2 emissions from cars can be put on a path in line with the Net Zero Emissions by 2050 Scenario. However, despite huge growth in China, some European countries and some U.S. states, electric vehicles are not yet a global phenomenon. Sales in some countries, especially developing and emerging countries, have been slow due to typically higher purchase costs compared to conventional vehicles and a lack of charging infrastructure.
+
+
+Global EV Outlook 2024: Trends in electric carscircle-arrow
+
+
+
+
+Global EV Outlook 2024: Executive Summarycircle-arrow
+
+
+
+
+Global EV Outlook 2024: Trends in electric carscircle-arrow
+
+
+electric vehicle (EV)s are the key technology to decarbonise road transport, a sector that accounts for over 15% of global energy-related emissions. Recent years have seen strong growth in the sale of electric vehicles together with improved range, wider model availability and increased performance. Passenger electric cars are surging in popularity – we estimate that 18% of new cars sold in 2023 will be electric.
+If the growth experienced in the past two years is sustained, CO2 emissions from cars can by 2030 be put on a pathway aligned with the Net Zero Emissions by 2050 (NZE) Scenario. However, electric vehicles are not yet a global phenomenon. Sales in some countries, especially developing and emerging countries, have been slow due to typically higher purchase costs compared to conventional vehicles and a lack of charging infrastructure.
+China, Europe and the United States remain the leading electric vehicle markets 
+China, Europe and the United States remain the leading electric vehicle markets 
+Countries and regions making notable progress to advance electric cars include: 
+
+1 NEVs (China) include BEVs, PHEVs and fuel-cell electric vehicles.  
+Global electric car sales exceeded 14 million in 2023 
+Global electric car sales exceeded 14 million in 2023 
+Electric car sales in 2023 were 3.5 million higher than in 2022, a 35% year-on-year increase. This is more than six times higher than in 2018, just 5 years earlier. In 2023, there were over 250 000 new registrations per week, which is more than the annual total in 2013, ten years earlier. Electric cars accounted for around 18% of all cars sold in 2023, up from 14% in 2022 and only 2% 5 years earlier, in 2018.
+In the NZE Scenario, electric car sales reach around 65% of total car sales in 2030. To get on track with this scenario, electric car sales must increase by an average of 23% per year from 2024 to 2030. For comparison, electric car sales increased by almost 35% in 2023 compared to 2022.
+Electrification is also happening in other vehicle segments, though in 2023 the electric sales share of buses and trucks was only around 3% and 1%, respectively. 
+For further data on historical and projected EV sales and stock, see the IEA Global EV Data Explorer.
+Electric vehicles avoid oil consumption 
+Electric vehicles avoid oil consumption 
+The global EV fleet consumed about 130 TWh of electricity in 2023, which accounted for about 0.5% of current total final electricity consumption worldwide. The use of EVs displaced around 0.9 Mb/d (2 EJ) of oil in 2023. 
+EVs would need to displace around 8.2 Mb/d (18 EJ) of oil in 2030 to be in step with the NZE Scenario. 
+Announced battery manufacturing capacity for 2030 would more than fulfil demand for electric vehicle batteries in the NZE Scenario, with existing and committed projects covering over 90% of the deployment needs 
+Announced battery manufacturing capacity for 2030 would more than fulfil demand for electric vehicle batteries in the NZE Scenario, with existing and committed projects covering over 90% of the deployment needs 
+Battery production has been ramping up quickly in the past few years to keep pace with increasing demand. In 2023, battery manufacturing reached 2.5 TWh, adding 780 GWh of capacity relative to 2022. The capacity added in 2023 was over 25% higher than in 2022.
+Global battery manufacturing capacity by 2030, if announcements are completed in full and on time, could exceed 9 TWh by 2030, of which about 70% is already operational or otherwise committed. When assuming a maximum utilisation rate of 85%, this translates to the potential for almost 8 TWh of batteries to be produced in 2030, of which over 5.5 TWh is from plants already operational today and those with committed announcements. This level of production would be sufficient to meet global deployment needs in the APS and over 90% of the deployment needs in the NZE Scenario by 2030. 
+Alternative battery chemistries are gaining prominence, helping ease pressure on critical mineral supply 
+Alternative battery chemistries are gaining prominence, helping ease pressure on critical mineral supply 
+Critical mineral price volatility and supply chain constraints pose a possible obstacle in achieving the EV deployment levels needed to get on a pathway aligned with the NZE Scenario. Today, lithium-ion batteries account for almost the entire EV battery market, and most of the common chemistries rely on the critical minerals lithium, cobalt and nickel. In 2023, lithium iron phosphate (LFP) batteries – the only lithium-ion battery chemistry which does not use nickel or cobalt – reached their highest market share of the past decade, at over 40%. This was in part due to price volatility of battery metals, making LFP batteries more attractive despite their lower energy density. 
+Supply chains for sodium-ion batteries – currently the only viable lithium-free battery alternative – are also being established. If manufactured at scale, sodium-ion batteries could cost up to 20% less than lithium-ion batteries, however, the current energy density of these batteries is lower. 
+For more information
+The number of public charging points is increasing, but deployment must accelerate 
+The number of public charging points is increasing, but deployment must accelerate 
+While most charging demand is currently met by home charging, publicly accessible chargers are increasingly needed in order to provide the same level of convenience and accessibility as for refuelling conventional vehicles. At the end of 2023, there were 3.9 million public charging points worldwide, more than 1.1 million of which were installed in 2023, an increase of more 40% compared to 2022 stock. At the end of 2023 China was home to about 70% of the global stock of public chargers. Europe ranks second, with around 725 000 total public chargers in 2023, a 35% increase from the previous year.
+By 2030, the NZE Scenario requires a stock of 17 million publicly available charging points, which would entail a year-on-year increase of around 23% per year. 
+More ambitious policy making sets the course for zero-emission driving 
+More ambitious policy making sets the course for zero-emission driving 
+Newly adopted and proposed GHG standards and zero-emission vehicle (ZEV) mandates will ensure increased adoption of EVs in the future. Recent examples include:
+View all electric vehicles policies
+Global spending on electric cars continues to increase 
+Global spending on electric cars continues to increase 
+Battery and EV manufacturers have faced new challenges and opportunities as major markets including the United States and the European Union introduced new industrial policies. Domestic content requirements introduced by these policies have supported the expansion plans of major battery and EV manufacturers, with billions in investments already committed as of early 2024. Worldwide, reported investment announcements from 2022 and 2023 alone exceed USD 275 billion in EVs and USD 195 billion in batteries, with around USD 190 billion of the total already committed. The level of investments observed in the past 2 years boosts confidence in the electrification of road transport.
+While investments that are already committed today tend to be more heavily geared towards battery than to EV manufacturing, it is important to note that battery manufacturing and EV expansion plans typically go hand in hand, often being situated close to demand centres to create integrated supply chains. This close collaboration is important in order to deliver on targets, avoid bottlenecks and decrease costs. In addition, if committed EV battery manufacturing capacity outpaces demand from EV manufacturers, it is unlikely that it would find alternative outlets, as other key battery markets such as consumer electronics are already well supplied and have different technical specifications. Failure to deliver on EV manufacturing capacity and sales therefore creates a risk of massive sunk investment in battery manufacturing, if manufacturers are unable to export significant quantities.
+A multiplying number of international initiatives and pledges aim to accelerate electric vehicle adoption 
+A multiplying number of international initiatives and pledges aim to accelerate electric vehicle adoption 
+The number of multilateral initiatives and pledges focusing on electromobility has increased rapidly in the last decade. This reflects government support around the world for accelerating the transition to zero-emission transport and is an encouraging sign that international collaboration has a strong role to play in decarbonisation. To increase the impact of such initiatives, member countries should ensure that such schemes complement each other, and identify where in the EV value chain they should focus.
+Major initiatives include:
+Automakers are increasingly setting voluntary electric vehicle targets 
+Automakers are increasingly setting voluntary electric vehicle targets 
+In total, more than 20 OEMs, together representing over 90% of car sales in 2023, have set some sort of target for future EV deployment. The global electric car sales envisaged in announcements by manufacturers have increased by several percentage points based on developments over the past year. If all manufacturers’ targets on vehicle electrification are combined, between 42% and 58% of car sales in 2030 could be electric. This range encompasses the sales share for cars in the STEPS (almost 45%) and the share implied by government ambitions in the APS (almost 50%).
+Automaker
+Target
+Region
+Group / Brand
+Volkswagen
+Increased BEV delivery target from 50% to 55% in 2030
+United States
+Brand
+Volkswagen
+Increased BEV delivery target from 70% to 80% in 2030
+Europe
+Brand
+Ampere
+Announced target of 300 000 BEV sales in 2025 and 1 million in 2031
+Europe
+Brand
+Togg
+Targets delivery of 1 million electric cars by 2030
+Europe
+Brand
+Toyota
+Accelerated production target to 20% EV by 2026
+Europe
+Brand
+Nissan
+Announced 100% BEV sales from 2030
+Europe
+Group
+Suzuki
+Presented strategy to reach 80% BEV sales share in 2030
+Europe
+Group
+Suzuki
+Presented strategy to reach 15% BEV sales share in 2030
+India
+Group
+Suzuki
+Presented strategy to reach 20% BEV sales share in 2030
+Japan
+Group
+Subaru
+Announced more ambitious target of 50% BEV sales in 2030
+Global
+Group
+Hyundai
+Raised ambition to sell 2 million EVs annually by 2030
+Global
+Brand
+Kia
+Increased 2030 EV sales target to 1.6 million
+Global
+Brand
+Tata
+Announced plan to sell 50% EVs by 2030
+Global
+Brand
+SAIC
+Increased ambition from 40% to 50% ZEV sales by 2025
+Global
+Group
+Geely
+Increased ambition from 40% to 50% ZEV sales by 2025
+Global
+Group
+As the electric car market matures and prices become competitive, reliance on direct subsidies must decrease and eventually be phased out. Budget-neutral “feebate” programmes – which tax inefficient ICE vehicles to finance subsidies for low-emission or EV purchases – can be a useful transition policy tool. Stringent vehicle efficiency and/or CO2 standards have promoted EV adoption in most leading EV markets and should be adopted by all countries seeking to hasten the transition to electromobility. 
+Electric buses and trucks are becoming competitive on a total cost-of-ownership basis across an increasing number of applications. Policy-led deployment can help kickstart this sector. ZEV sales mandates, purchase incentives and CO2 standards can all help speed up the transition. 
+Electrification of road transport in emerging and developing economies should prioritise two/three-wheelers and urban buses, as these vehicle types are the most cost-competitive. Price signals and charging infrastructure availability can also help the economic case for electrification. 
+In emerging EV markets, efforts should be made to establish and tighten fuel economy and emission standards, and to facilitate electric grid development. 
+Governments should continue to support the deployment of publicly available charging infrastructure at least until there are enough EVs on the road for an operator to sustain a charging network. Continued government support, either through regulations requiring the building out of charging stations or through fiscal policies and support, should ensure equitable access to charging for all communities to ensure that no-one is left behind in the transition. Incentivising and facilitating the installation of home chargers in existing parking spaces is important. 
+Co-ordinated plans on grid expansion and enhancements, including digital technologies to facilitate two-way communication and pricing between EVs and grids, are needed now to ensure that EVs can become a resource for grid stability rather than a challenge. 
+Electrifying road transport requires a wide range of raw material inputs. While all stages of the supply chain must scale up, extraction and processing is particularly critical due to long lead times. Governments must leverage private investment in the sustainable mining of critical battery metals and ensure clear and rapid permitting procedures to avoid potential supply bottlenecks. 
+Innovation and alternative chemistries that require smaller amounts of critical minerals, as well as extensive battery recycling, can ease demand pressure and avoid bottlenecks. Incentivising battery “rightsizing” and the adoption of smaller cars can also decrease demand for critical metals. 
+Governments should ensure the traceability of key EV components and monitor progress of ambitious environmental and social development goals at every stage of battery and EV supply chains.
+Last update on  6 June 2024
+The Programme aims to produce analysis and share knowledge on topics related to the development and deployment of hybrid and electric vehicles.
+ Explore historical and projected data on electric vehicles sales, stock, charging infrastructure and oil displacement
+
+                        Commentary   — 20 December 2024                     
+Life cycle impacts and the role of recycling
+
+                        Technology report   — December 2024                     
+Interactive database of nearly 600 individual technology designs and components across the whole energy system that contribute to achieving the goal of net-zero emissions
+Data explorer
+A snapshot of global energy policies tracking over 5 000 policies in 50 G20 and IEA Family countries
+Data explorer
+Explore and compare the lifecycle emissions of conventional and electric cars and the effect of changing variables such as vehicle size
+Data explorer
+Global demand projections for 37 critical minerals needed for clean energy transitions across the three main IEA scenarios and 11 technology-specific cases
+Data explorer
+Moving towards increased affordability
+
+                        Flagship report   — April 2024                     
+Explore historical and projected data on electric vehicles sales, stock, charging infrastructure and oil displacement
+Data explorer
+Key policies and measures that support the deployment of electric and zero-emission vehicles
+Data explorer
+
+                        Commentary   — 18 April 2024                     
+
+                        Flagship report   — October 2023                     
+Net Zero Emissions Guide
+
+                        Technology report   — September 2023                     
+
+                        Default report   — August 2023                     
+Quantify and visualise the charging demand profile for different vehicle classes and charging use cases
+Data explorer
+An Energy Technology Perspectives Special Briefing
+
+                        Default report   — May 2023                     
+
+                        Commentary   — 12 May 2023                     
+
+                        Flagship report   — April 2023                     
+
+                        Commentary   — 07 March 2023                     
+A manual for policy makers
+
+                        Technology report   — December 2022                     
+
+                        Flagship report   — October 2022                     
+
+                        Technology report   — July 2022                     
+Promoting successful roll-out strategies and business models
+
+                        Default report   — April 2022                     
+
+                        Commentary   — 30 January 2022                     
+Tracking clean energy transitions through key indicators
+Data explorer
+
+                        Flagship report   — May 2021                     
+
+                        Commentary   — 15 January 2021                     
+
+                        Commentary   — 18 May 2020                     
+
+                        Commentary   — 15 January 2020                     
+
+                        Commentary   — 10 October 2019                     
+
+                        News   — 14 May 2019                     
+
+                        Commentary   — 28 March 2019                     
+
+                        Commentary   — 16 October 2018                     
+
+                        News   — 30 May 2018                     
+
+                        News   — 24 May 2018                     
+
+                        News   — 07 June 2017                     
+
+                        News   — 06 June 2017                     
+
+                        News   — 06 April 2017                     
+
+                        Commentary   — 27 March 2017                     
+
+                        News   — 05 October 2016                     
+
+                        News   — 16 September 2016                     
+
+                        News   — 07 September 2016                     
+
+                        News   — 04 May 2015                     
+
+                        News   — 16 July 2014                     
+
+                        News   — 17 April 2013                     
+Global EV Outlook 2024 data
+Data set
+Get updates on the IEA’s latest news, analysis, data and events delivered twice monthly.
+
+Lead authors
+
+Elizabeth Connelly
+
+
+Contributors
+
+Ethan Jenness
+
+Thank you for subscribing. You can unsubscribe at any time by clicking the link at the bottom of any IEA newsletter.

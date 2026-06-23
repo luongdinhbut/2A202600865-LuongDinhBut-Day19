@@ -1,0 +1,130 @@
+Query: Electric vehicle financial sentiment comparison between US and global market
+Title: Energy Sector Stocks: Is Now the Time to Invest? | U.S. Bank
+Link: https://www.usbank.com/investing/financial-perspectives/market-news/energy-sector-performance.html
+Snippet: Unlike the oil market, where prices move on a global level, natural gas prices are affected by regional factors. Europe's demand for liquid natural gas to ...
+
+Full Content:
+January 3, 2024
+Key takeaways
+Energy stocks continue to face headwinds in an environment where oil supplies outpace demand.
+The S&P 500 energy sector fell by nearly 10% in December 2024.
+Nevertheless, performance for the energy sector over the past 3-year and 5-year periods remains strong.
+In late 2024, energy sector stocks experienced significant volatility, gaining more than 6% in November before retreating by nearly 10% in December. At year’s end, the S&P 500 energy sector, which was up close to 20% at its peak, ended 2024 with a return of just 5.72%. Energy stocks significantly lagged the broader S&P 500, which gained 25% in 2024.1
+On the strength of standout performance prior to 2023, the energy sector is up more than 20% per year for the three-year period ending December 2024, and 12.14% per year over the previous five years.1
+“As 2024 came to a close, markets responded to the environment for energy prices,” says Rob Haworth, senior investment strategy director with U.S. Bank Asset Management. “In part, it reflects concern that Oil Petroleum Exporting Countries+ (OPEC+) may soon boost production, which would add to an already solid supply situation.” Haworth notes that energy demand remains an issue. “The oil market is one that remains well supplied but isn’t well demanded,” says Haworth. “Although the U.S. economy is strong, other major oil users like China and Europe are experiencing economic challenges. As a result, global oil demand is lagging.”
+A further increase in supply is possible. “The incoming Trump administration's indications that it supports increased U.S. oil drilling would also result in more supply,” notes Haworth. “This isn’t necessarily beneficial for oil companies, who would like to see higher oil prices rather than a supply glut.”
+ 
+Energy prices peaked in 2022 as demand surged with the end of COVID-related shutdowns and the onset of the Russia-Ukraine war. Prices declined significantly since. In 2023, oil prices were flat to lower, and energy stocks followed suit. Oil prices moved above $80/barrel by mid-March 2024, then held between $70 and $80/barrel for much of 2024’s summer months but have hovered in the $70/barrel range since September.2 Natural gas prices rose more than 30% in 2024, but prices for all key energy products remain significantly below 2022 peaks.2
+Category
+2022 Peak Price
+2023 End Price
+Recent Price
+% Change from Peak
+% Change Year-to-Date
+Crude Oil (barrel)
+$123.64
+$71.89
+$72.44
+-41.4%
+0.8%
+Gasoline (gallon)
+$5.01
+$3.12
+$3.00
+-40.0%
+-3.7%
+Natural Gas (mil. Btu)
+$9.48
+$2.53
+$3.40
+-65.5%
+34.4%
+Heating Oil (gallon)
+$5.15
+$2.44
+$2.10
+-58.5%
+-12.3 %
+Category
+Crude Oil (barrel)
+2022 Peak Price
+$123.64
+2023 End Price
+$71.89
+Recent Price
+$72.44
+% Change from Peak
+-41.4%
+% Change Year-to-Date
+0.8%
+Category
+Gasoline (gallon)
+2022 Peak Price
+$5.01
+2023 End Price
+$3.12
+Recent Price
+$3.00
+% Change from Peak
+-40.0%
+% Change Year-to-Date
+-3.7%
+Category
+Natural Gas (mil. Btu)
+2022 Peak Price
+$9.48
+2023 End Price
+$2.53
+Recent Price
+$3.40
+% Change from Peak
+-65.5%
+% Change Year-to-Date
+34.4%
+Category
+Heating Oil (gallon)
+2022 Peak Price
+$5.15
+2023 End Price
+$2.44
+Recent Price
+$2.10
+% Change from Peak
+-58.5%
+% Change Year-to-Date
+-12.3 %
+All prices published by U.S. Energy Information Administration. Crude Oil price per barrel: West Texas Intermediate (WTI) – Cushing, Oklahoma as of Dec. 31, 2024. Gasoline price per gallon: U.S. Regular All Formulations as of Dec. 31, 2024. Natural Gas price per million BTU: Henry Hub Natural Gas Spot Price as of Dec. 31, 2024. Heating Oil price per gallon: No. 2 Heating Oil Prices: New York Harbor as of Dec. 30, 2024. 
+“Part of the reason some energy stocks are doing well even though oil prices are down is that global natural gas prices are up,” says Haworth. Unlike the oil market, where prices move on a global level, natural gas prices are affected by regional factors. Europe’s demand for liquid natural gas to offset supply disruptions from Russia may be contributing to the trend. Natural gas companies make up roughly one-third of the S&P 500 Energy index.1
+“The oil market is one that remains well supplied but isn’t well demanded,” says Rob Haworth, senior investment strategy director for U.S. Bank Asset Management. “Although the U.S. economy is strong, other major oil users like China and Europe are experiencing economic challenges. As a result, global demand is lagging.”
+The U.S. is now the world’s largest oil producer, with current production reaching record levels.3 Supply interruptions occurred worldwide as OPEC+ trimmed production levels to boost oil prices. Increased U.S. oil production helped overcome supply shortfalls. The U.S. is now a net oil exporter.4
+Nevertheless, oil consumption worldwide is still on the rise, though the pace of growth has slowed.5 
+Despite the potential push for increased oil production, it isn’t clear how quickly that might occur. “Before adding more oil rigs, which are expensive, companies want to know they can produce oil at a cost that justifies stepped-up production.”
+ 
+In the 1970’s, the energy sector represented approximately 15% of the broader U.S. stock market. Today, it makes up just 3.2% of the S&P 500 index.1 “Yet energy consumption is up since the 1970s, and the important role energy plays in the broader economy is not diminished,” says Haworth. “From an earnings (profit) perspective, energy stocks play a more prominent role in today's S&P 500 than their index weighting would indicate.”
+ 
+Renewable energy sources such as wind and solar are part of the energy picture today as efforts are made to reduce fossil fuels’ carbon footprint. But renewables make up less than 25% of U.S. electricity generation.6
+“Alternatives like wind and solar are not a factor in the S&P 500 Energy Index to this point,” says Haworth. “In some cases, they may be represented in other sectors of the market, such as utilities or information technology.”
+ 
+Investments in the energy sector today are primarily directed toward more traditional companies that participate in industries like oil and natural gas. “The demand for fossil fuels is not going away in the near term,” says Haworth. He emphasizes that opportunities are available even in a market featuring more stable prices. “Many exploration and production companies have productive oil wells and should be able to generate solid profit margins,” says Haworth. “Since these companies tend to return capital to shareholders in the form of dividend payouts, their stocks represent an opportunity for income-orientated investors.”
+Other opportunities can be found among so-called midstream energy companies that transport crude oil or refined petroleum products. “This sector is less dependent on energy prices than on the flow of oil, and volume moving through these facilities remains high,” says Haworth. Midstream companies tend to pay attractive dividends. However, the investment process can be more complex as it sometimes requires investments in limited partnerships. Partnerships issue K-1 forms to investors for tax reporting purposes, which can complicate an investor's tax filing process.
+Consider consulting with your financial professional to determine whether targeted investments in the energy sector can help you meet your long-term financial goals.
+Investors gain modest exposure to the energy sector through investments in an S&P 500 index fund or ETF, though the energy sector today represents 3.2% of the S&P 500 Index.1 Choosing to invest in specific energy stocks or an energy sector fund or ETF offers potential to more directly capitalize on this sector. However, it’s important to recognize that energy stocks can experience significant fluctuations in value. For example, S&P 500 Energy sector gained nearly 55% in 2021 and nearly 66% in 2022 before experiencing a narrowly negative return in 2023 and a modest 5.7% gain in 2024.1 Investors need to be aware of the potential for variable returns in the sector.
+Some energy stocks typically perform better when prices rise for underlying commodities such as crude oil and natural gas. In that sense, investors may be able to benefit from owning energy stocks during inflationary periods. However, not all energy stocks perform the same. Rob Haworth, senior investment strategy director at U.S. Bank Asset Management says bottom line results for companies can hold up even if oil prices don’t. “Prices have a major impact on companies that find and produce oil,” says Haworth. “But oil refiners make money from the spread between oil prices and gasoline prices. Storage and transportation company earnings are more affected by the volume and flow of energy.” Haworth also points out that about one-third of the S&P 500’s energy sector is composed of natural gas companies, a market where pricing generally moves independently from oil price trends. Natural gas prices are driven more by domestic supply and demand rather than global market trends.
+Though renewables such as solar and wind power are playing a bigger role in the world’s move toward decarbonizing energy generation, investment opportunities may be limited. In the U.S., renewables make up less than 25% of all electricity generation.6 “Alternatives like wind and solar are not a factor in the S&P 500 Energy Index to this point,” says Rob Haworth, senior investment strategy director at U.S. Bank Asset Management. Utility companies emphasizing renewable energy sources offer one opportunity to pursue this part of the market. Some manufacturers of wind or solar equipment also offer opportunities, but they are far more limited than more established, traditional energy companies.
+Share:
+While technology stocks cooled in the third quarter, the sector remains poised to outperform the broader S&P 500 in 2024 for the second year in a row.
+With the stock market up, inflation retreating and interest rates in flux, how should investors position their portfolios to capitalize on potential opportunities, while guarding against risks?
+S&P Dow Jones Indices. Returns as of December 31, 2024.
+Energy Information Administration.
+U.S. Energy Information Administration, “U.S. energy production has increased faster than energy consumption over the past 50 years,” Oct. 29, 2024.
+U.S. Energy Information Administration, “U.S. Net Imports of Crude Oil and Petroleum Products,” as of Dec. 27, 2024.
+U.S. Energy Information Administration, “Short Term Energy Outlook,” Petroleum and Other Liquids Consumption, December 10, 2024.
+U.S. Energy Information Administration, “Electric Power Monthly, Net Generation by Energy Source,” as of October 2024.
+Investment and insurance products and services including annuities are:
+Not a deposit • Not FDIC insured • May lose value • Not bank guaranteed • Not insured by any federal government agency.
+U.S. Wealth Management – U.S. Bank is a marketing logo for U.S. Bank.
+U.S. Bank and its representatives do not provide tax or legal advice. Your tax and financial situation is unique. You should consult your tax and/or legal advisor for advice and information concerning your particular situation.
+The information provided represents the opinion of U.S. Bank and is not intended to be a forecast of future events or guarantee of future results. It is not intended to provide specific investment advice and should not be construed as an offering of securities or recommendation to invest. Not for use as a primary basis of investment decisions. Not to be construed to meet the needs of any particular investor. Not a representation or solicitation or an offer to sell/buy any security. Investors should consult with their investment professional for advice concerning their particular situation.
+U.S. Bank does not offer insurance products but may refer you to an affiliated or third party insurance provider.
+U.S. Bank is not responsible for and does not guarantee the products, services or performance of U.S. Bancorp Investments, Inc.
+ Equal Housing Lender. Deposit products are offered by U.S. Bank National Association. Member FDIC. Mortgage, Home Equity and Credit products are offered by U.S. Bank National Association. Loan approval is subject to credit approval and program guidelines. Not all loan programs are available in all states for all loan amounts. Interest rates and program terms are subject to change without notice.
